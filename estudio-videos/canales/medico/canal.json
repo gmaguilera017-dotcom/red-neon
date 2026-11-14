@@ -1,0 +1,14 @@
+{
+  "nombre": "Canal médico educativo (definir nombre)",
+  "idioma": "es",
+  "ancho": 1920,
+  "alto": 1080,
+  "fps": 30,
+  "segundos_por_escena": 6,
+  "color_fondo": "white",
+  "color_texto": "black",
+  "fuente": "DejaVu Sans",
+  "fuente_archivo": "",
+  "tamano_subtitulos": 22,
+  "volumen_musica": 0.12
+}
