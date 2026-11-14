@@ -58,3 +58,16 @@ cambia las duraciones.
   (imagen horizontal centrada sobre fondo blanco) → montaje final.
 - Este estudio reproduce ese flujo y agrega lo que el video no muestra: el montaje automático
   y las reglas de calidad para contenido médico.
+
+## Producción sin herramientas externas (opcional)
+
+Para el canal NeoMed, las imágenes y la voz también se pueden generar acá mismo:
+
+- **Esquemas por código:** `herramientas/dibujo.py` trae las piezas (membrana, canales, bomba,
+  gráfico del potencial, axón, mielina). Cada video tiene su `01_Guion/dibujar_escenas.py`;
+  se pasa a PNG con `node herramientas/svg_a_png.js <carpeta_video>` (requiere Playwright).
+  Ventaja: rótulos en español y contenido exacto, corregible línea por línea.
+- **Voz sintética:** `python3 herramientas/voz.py <carpeta_video> <modelo.onnx>` genera la
+  narración frase por frase con Piper (`pip install piper-tts`) y escribe en `escenas.csv` la
+  duración real de cada escena, así imagen y voz quedan sincronizadas. Voz usada en el video 01:
+  `es_MX-claude-high` (licencia Apache 2.0).

@@ -1,0 +1,183 @@
+1
+00:00:00,000 --> 00:00:06,761
+Cada vez que mueves un dedo, una señal eléctrica recorre tus nervios a más de cien metros por segundo.
+
+2
+00:00:06,761 --> 00:00:14,162
+Esa señal se llama potencial de acción, y en cinco minutos vas a entender cómo se genera, paso a paso.
+
+3
+00:00:14,162 --> 00:00:21,102
+Empecemos por el escenario: la membrana de la neurona, una doble capa de lípidos que separa dos mundos.
+
+4
+00:00:21,102 --> 00:00:27,683
+Afuera de la célula abunda el sodio. Adentro abunda el potasio, junto con proteínas de carga negativa.
+
+5
+00:00:27,683 --> 00:00:34,524
+Esa diferencia no es casual. La mantiene la bomba de sodio y potasio, que trabaja gastando ATP.
+
+6
+00:00:34,524 --> 00:00:42,655
+En cada ciclo, la bomba saca tres iones de sodio y mete dos de potasio. Sale más carga positiva de la que entra.
+
+7
+00:00:42,655 --> 00:00:49,616
+Además, la membrana en reposo tiene canales de fuga de potasio, que lo dejan escapar hacia afuera.
+
+8
+00:00:49,616 --> 00:00:56,166
+Al salir potasio, el interior pierde cargas positivas y queda negativo con respecto al exterior.
+
+9
+00:00:56,166 --> 00:01:03,817
+Ese es el potencial de membrana en reposo: alrededor de menos setenta milivoltios en una fibra nerviosa grande.
+
+10
+00:01:03,817 --> 00:01:10,948
+La neurona en reposo es como una batería cargada: tiene energía guardada, lista para usarse.
+
+11
+00:01:10,948 --> 00:01:18,089
+Para usarla hacen falta otros protagonistas: los canales de sodio y de potasio activados por voltaje.
+
+12
+00:01:18,089 --> 00:01:25,780
+El canal de sodio tiene dos compuertas: una de activación, hacia afuera, y otra de inactivación, hacia adentro.
+
+13
+00:01:25,780 --> 00:01:32,910
+En reposo, la compuerta de activación está cerrada. El sodio no puede entrar, aunque tenga todo a favor.
+
+14
+00:01:32,910 --> 00:01:40,441
+Ahora llega un estímulo. La membrana se despolariza un poco, es decir, se vuelve menos negativa.
+
+15
+00:01:40,441 --> 00:01:48,032
+Si el estímulo es débil y no alcanza el umbral, la membrana vuelve al reposo y no pasa nada más.
+
+16
+00:01:48,032 --> 00:01:55,463
+Pero si llega al umbral, cerca de menos cincuenta y cinco milivoltios, se dispara algo que ya no tiene vuelta atrás.
+
+17
+00:01:55,463 --> 00:02:03,914
+Se abren los canales de sodio. El sodio entra de golpe, empujado por su gradiente de concentración y por la carga negativa interior.
+
+18
+00:02:03,914 --> 00:02:10,105
+Esa entrada despolariza más la membrana, y eso abre todavía más canales de sodio.
+
+19
+00:02:10,105 --> 00:02:16,425
+Es una retroalimentación positiva: cuanto más sodio entra, más canales se abren.
+
+20
+00:02:16,425 --> 00:02:25,286
+En menos de un milisegundo, el potencial sube de valores negativos hasta valores positivos. Esa es la fase de despolarización.
+
+21
+00:02:25,286 --> 00:02:33,177
+El interior de la célula queda, por un instante, positivo. A ese exceso se lo llama sobreexcitación u overshoot.
+
+22
+00:02:33,177 --> 00:02:40,178
+Pero el pico dura muy poco, porque el mismo voltaje que abrió el canal de sodio también lo inactiva.
+
+23
+00:02:40,178 --> 00:02:46,289
+La compuerta de inactivación se cierra, más lenta que la primera, y el sodio deja de entrar.
+
+24
+00:02:46,289 --> 00:02:52,539
+Al mismo tiempo se abren los canales de potasio activados por voltaje, que son más lentos.
+
+25
+00:02:52,539 --> 00:02:58,140
+Ahora es el potasio el que sale de la célula, y se lleva consigo cargas positivas.
+
+26
+00:02:58,140 --> 00:03:04,321
+El potencial cae de nuevo hacia valores negativos. Esa es la fase de repolarización.
+
+27
+00:03:04,321 --> 00:03:11,462
+Los canales de potasio tardan en cerrarse, así que la membrana queda por un momento más negativa que en reposo.
+
+28
+00:03:11,462 --> 00:03:18,532
+Es la hiperpolarización posterior, o pospotencial. Después, la membrana vuelve a su valor de reposo.
+
+29
+00:03:18,532 --> 00:03:26,463
+Un detalle importante: en cada potencial de acción se mueven muy pocos iones. Las concentraciones casi no cambian.
+
+30
+00:03:26,463 --> 00:03:33,114
+La bomba de sodio y potasio no genera el potencial de acción. Mantiene los gradientes a largo plazo.
+
+31
+00:03:33,114 --> 00:03:42,255
+Mientras los canales de sodio están inactivados, ningún estímulo puede generar otro potencial. Es el período refractario absoluto.
+
+32
+00:03:42,255 --> 00:03:50,576
+Luego viene el período refractario relativo: se puede disparar otro potencial, pero hace falta un estímulo mayor.
+
+33
+00:03:50,576 --> 00:03:57,417
+Por eso el potencial de acción avanza en un solo sentido, y por eso tiene una frecuencia máxima.
+
+34
+00:03:57,417 --> 00:04:06,168
+También explica la ley del todo o nada: si se alcanza el umbral, el potencial ocurre completo. Si no, no ocurre.
+
+35
+00:04:06,168 --> 00:04:13,369
+La intensidad del estímulo no cambia el tamaño del potencial. Cambia cuántos potenciales se disparan por segundo.
+
+36
+00:04:13,369 --> 00:04:20,199
+¿Y cómo viaja? La zona despolarizada genera corrientes locales que llevan al umbral a la zona vecina.
+
+37
+00:04:20,199 --> 00:04:26,200
+Así se propaga a lo largo del axón, como una fila de fichas de dominó que caen una tras otra.
+
+38
+00:04:26,200 --> 00:04:33,151
+En las fibras sin mielina, ese avance es continuo y lento: desde un cuarto de metro por segundo.
+
+39
+00:04:33,151 --> 00:04:41,622
+En las fibras mielínicas, la vaina de mielina aísla el axón y solo deja membrana expuesta en los nódulos de Ranvier.
+
+40
+00:04:41,622 --> 00:04:49,963
+El potencial salta de nódulo en nódulo. Es la conducción saltatoria: mucho más rápida y con menos gasto de energía.
+
+41
+00:04:49,963 --> 00:04:58,694
+Llevemos esto a la clínica. Los anestésicos locales, como la lidocaína, bloquean los canales de sodio activados por voltaje.
+
+42
+00:04:58,694 --> 00:05:05,384
+Sin entrada de sodio no hay potencial de acción, y la señal de dolor no llega al sistema nervioso central.
+
+43
+00:05:05,384 --> 00:05:13,295
+Y en enfermedades desmielinizantes, como la esclerosis múltiple, la conducción se enlentece o directamente se bloquea.
+
+44
+00:05:13,295 --> 00:05:20,036
+Resumen en tres pasos. Uno: el reposo es negativo gracias a la fuga de potasio y a la bomba.
+
+45
+00:05:20,036 --> 00:05:28,267
+Dos: al llegar al umbral entra sodio y la membrana se despolariza. Tres: sale potasio y se repolariza.
+
+46
+00:05:28,267 --> 00:05:37,058
+En el próximo video: cómo esa señal cruza la sinapsis. Este contenido es educativo y no reemplaza la consulta médica.
