@@ -1,2 +1,2 @@
-nombre,desde,hasta,titulo
-reel_01,0:00,0:45,Título corto del reel
+nombre,escena_desde,escena_hasta,titulo
+reel_01,1,10,Título corto del reel

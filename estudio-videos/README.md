@@ -1,7 +1,8 @@
 # Estudio de montaje de videos
 
-Dos canales, un mismo flujo: **popular** (`canales/popular`) y **médico educativo**
-(`canales/medico`). Basado en el flujo del video analizado (ver al final).
+Dos canales, un mismo flujo: **Cuerpo Curioso** (`canales/popular`, curiosidades del cuerpo y
+la mente) y **NeoMed Fisiología** (`canales/medico`, fisiología humana para estudiantes).
+Cada uno ya tiene su primer video guionado en `canales/<canal>/videos/01_…`. Basado en el flujo del video analizado (ver al final).
 
 ## Flujo por video
 
@@ -9,6 +10,7 @@ Dos canales, un mismo flujo: **popular** (`canales/popular`) y **médico educati
 |---|---|---|---|
 | 1 | Crear el proyecto | `estudio.py nuevo` | carpetas `00_…06_` |
 | 2 | Guion + escenas + reels | Claude con `plantillas/prompt_maestro.md` + `canal.md` | `01_Guion/guion.md`, `escenas.csv`, `reels.csv` |
+| 2b | Prompts listos y texto para la voz | `estudio.py prompts` | `01_Guion/prompts_para_flow.txt`, `04_Voz/texto_para_voz.txt` |
 | 3 | Imágenes (una por escena) | Google Flow u otro generador, con `personaje_principal.jpg` de referencia | `02_Imagenes/escena_001.png`… |
 | 4 | Animar ~10 % de las escenas (opcional) | mismo generador, imagen → video | `03_Animaciones/escena_012.mp4`… |
 | 5 | Voz | grabación propia o TTS (ElevenLabs, etc.) leyendo `guion.md` | `04_Voz/narracion.mp3` |
@@ -37,9 +39,12 @@ python3 herramientas/estudio.py reels  canales/popular/videos/01_9_habitos_que_t
 
 ## Ajustes por canal
 
-`canales/<canal>/canal.json`: resolución, fps, segundos por escena, color de fondo, fuente y
-volumen de música. `canales/<canal>/canal.md`: nicho, estilo, tono y reglas (completar los
-**(definir)**).
+`canales/<canal>/canal.json`: resolución, fps, segundos por escena, color de fondo, fuente,
+volumen de música y `estilo_prompt` (bloque de estilo que se antepone a cada prompt).
+`canales/<canal>/canal.md`: nicho, estilo, tono, reglas y plan de videos.
+
+Los reels se definen por número de escena (`reels.csv`), así no se desfasan cuando la voz
+cambia las duraciones.
 
 ## Qué mostraba el video de referencia
 

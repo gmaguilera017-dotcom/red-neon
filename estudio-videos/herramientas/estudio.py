@@ -3,6 +3,7 @@
 
 Uso:
   python3 herramientas/estudio.py nuevo  <canal> "<titulo>"
+  python3 herramientas/estudio.py prompts <carpeta_video>
   python3 herramientas/estudio.py montar <carpeta_video> [--subs] [--borrador]
   python3 herramientas/estudio.py reels  <carpeta_video>
 
@@ -72,6 +73,8 @@ def leer_escenas(carpeta_video, canal):
                 "n": int(fila["n"]),
                 "dur": float(fila.get("duracion") or canal["segundos_por_escena"]),
                 "texto": (fila.get("narracion") or "").strip(),
+                "prompt": (fila.get("prompt") or "").strip(),
+                "animar": (fila.get("animar") or "").strip().lower() in ("si", "sí"),
             })
     if not escenas:
         sys.exit("escenas.csv está vacío")
@@ -96,6 +99,26 @@ def cmd_nuevo(a):
     shutil.copy(RAIZ / "plantillas" / "reels.csv", destino / "01_Guion" / "reels.csv")
     (destino / "01_Guion" / "guion.md").write_text(f"# {a.titulo}\n\n", encoding="utf-8")
     print(f"Proyecto creado: {destino.relative_to(RAIZ)}")
+
+
+# ---------------------------------------------------------------- prompts
+def cmd_prompts(a):
+    video = Path(a.carpeta)
+    canal = cargar_canal(video)
+    escenas = leer_escenas(video, canal)
+    estilo = canal.get("estilo_prompt", "").strip()
+    bloques = [f"[escena_{e['n']:03d}]{' (ANIMAR)' if e['animar'] else ''}\n"
+               f"{estilo} Scene: {e['prompt']}" for e in escenas]
+    (video / "01_Guion" / "prompts_para_flow.txt").write_text(
+        "\n\n".join(bloques) + "\n", encoding="utf-8")
+    (video / "04_Voz" / "texto_para_voz.txt").write_text(
+        "\n".join(e["texto"] for e in escenas) + "\n", encoding="utf-8")
+    palabras = sum(len(e["texto"].split()) for e in escenas)
+    total = sum(e["dur"] for e in escenas)
+    print(f"{len(escenas)} escenas, {total / 60:.1f} min, {palabras} palabras "
+          f"({palabras / total * 60:.0f} por minuto), "
+          f"{sum(e['animar'] for e in escenas)} para animar")
+    print("Generado: 01_Guion/prompts_para_flow.txt y 04_Voz/texto_para_voz.txt")
 
 
 # ---------------------------------------------------------------- montar
@@ -173,13 +196,16 @@ def cmd_montar(a):
     (tmp / "lista.txt").write_text("\n".join(lista), encoding="utf-8")
 
     # Subtítulos .srt a partir de la narración de cada escena
-    srt, t = [], 0.0
+    srt, t, tiempos = [], 0.0, {}
     for k, e in enumerate(escenas, 1):
+        tiempos[e["n"]] = [round(t, 3), round(t + e["dur"], 3)]
         if e["texto"]:
             srt.append(f"{k}\n{t_srt(t)} --> {t_srt(t + e['dur'])}\n{e['texto']}\n")
         t += e["dur"]
     srt_path = video / "06_Final" / "subtitulos.srt"
     srt_path.write_text("\n".join(srt), encoding="utf-8")
+
+    (video / "06_Final" / "tiempos.json").write_text(json.dumps(tiempos), encoding="utf-8")
 
     mudo = tmp / "mudo.mp4"
     ff("-f", "concat", "-safe", "0", "-i", tmp / "lista.txt", "-c", "copy", mudo)
@@ -218,11 +244,6 @@ def cmd_montar(a):
 
 
 # ---------------------------------------------------------------- reels
-def a_segundos(t):
-    partes = [float(p) for p in str(t).strip().split(":")]
-    return sum(p * 60 ** i for i, p in enumerate(reversed(partes)))
-
-
 def cmd_reels(a):
     video = Path(a.carpeta)
     canal = cargar_canal(video)
@@ -232,14 +253,15 @@ def cmd_reels(a):
     fondo, fuente_archivo = canal["color_fondo"], canal.get("fuente_archivo", "")
     destino = video / "06_Final" / "reels"
     destino.mkdir(exist_ok=True)
-    total = duracion(origen)
+    tiempos = json.loads((video / "06_Final" / "tiempos.json").read_text())
     with (video / "01_Guion" / "reels.csv").open(encoding="utf-8-sig", newline="") as f:
         filas = [r for r in csv.DictReader(f) if (r.get("nombre") or "").strip()]
     for r in filas:
-        ini, fin = a_segundos(r["desde"]), min(a_segundos(r["hasta"]), total)
-        if fin <= ini:
-            print(f"  {r['nombre']}: fuera del video, se omite")
+        d, h = str(int(r["escena_desde"])), str(int(r["escena_hasta"]))
+        if d not in tiempos or h not in tiempos or int(h) < int(d):
+            print(f"  {r['nombre']}: escenas {d}-{h} no válidas, se omite")
             continue
+        ini, fin = tiempos[d][0], tiempos[h][1]
         # Imagen horizontal centrada sobre fondo del canal, título arriba
         vf = f"scale=1080:-2,pad=1080:1920:(ow-iw)/2:(oh-ih)/2:color={fondo}"
         titulo = (r.get("titulo") or "").strip()
@@ -270,6 +292,9 @@ def main():
     m.add_argument("--subs", action="store_true", help="quema los subtítulos en el video")
     m.add_argument("--borrador", action="store_true", help="rápido, sin zoom")
     m.set_defaults(f=cmd_montar)
+    q = sub.add_parser("prompts", help="genera prompts para el generador y texto para la voz")
+    q.add_argument("carpeta")
+    q.set_defaults(f=cmd_prompts)
     r = sub.add_parser("reels", help="corta reels verticales 9:16 según reels.csv")
     r.add_argument("carpeta")
     r.set_defaults(f=cmd_reels)
