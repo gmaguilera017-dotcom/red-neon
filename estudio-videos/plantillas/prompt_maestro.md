@@ -23,8 +23,8 @@ Trabajá en este orden y esperá mi OK entre pasos:
 4. **Escenas** (`escenas.csv`): partir el guion en escenas de la duración indicada en la ficha.
    Columnas exactas: `n,duracion,narracion,prompt,animar`
    - `narracion`: la frase exacta del guion que se oye en esa escena (en español).
-   - `prompt`: EN INGLÉS, solo lo que se dibuja en esa escena (el bloque de estilo y el
-     personaje se agregan solos desde `canal.json`). Sin texto dentro de la imagen.
+   - `prompt`: EN INGLÉS, solo lo que se dibuja en esa escena (el bloque de estilo se
+     agrega solo desde `canal.json`). Sin texto dentro de la imagen.
    - `animar`: `si` en ~10 % de las escenas (las de más impacto), `no` en el resto.
 5. **Reels** (`reels.csv`): 5-10 cortes de 30-50 s que funcionen solos.
    Columnas: `nombre,escena_desde,escena_hasta,titulo` (números de escena, no tiempos).

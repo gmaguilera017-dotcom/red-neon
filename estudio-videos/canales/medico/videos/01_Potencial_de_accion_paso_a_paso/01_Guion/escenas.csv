@@ -1,6 +1,6 @@
 n,duracion,narracion,prompt,animar
 1,7,"Cada vez que mueves un dedo, una señal eléctrica recorre tus nervios a más de cien metros por segundo.","A hand moving one finger, with a teal electrical pulse traveling along a nerve from the arm to the finger.",si
-2,7,"Esa señal se llama potencial de acción, y en cinco minutos vas a entender cómo se genera, paso a paso.","Neo the doctor character pointing at a simple whiteboard showing a single spike-shaped curve drawn in teal.",no
+2,7,"Esa señal se llama potencial de acción, y en cinco minutos vas a entender cómo se genera, paso a paso.","A simple whiteboard showing a single spike-shaped curve drawn in teal.",no
 3,7,"Empecemos por el escenario: la membrana de la neurona, una doble capa de lípidos que separa dos mundos.","Cross-section of a cell membrane as a phospholipid bilayer separating an outer and an inner compartment.",no
 4,7,"Afuera de la célula abunda el sodio. Adentro abunda el potasio, junto con proteínas de carga negativa.","Cell membrane with many small teal spheres outside and many dark spheres plus large negatively charged proteins inside.",no
 5,7,"Esa diferencia no es casual. La mantiene la bomba de sodio y potasio, que trabaja gastando ATP.","A pump protein embedded in the membrane, with a small energy burst symbol next to it on the inner side.",no
@@ -42,6 +42,6 @@ n,duracion,narracion,prompt,animar
 41,7,"Llevemos esto a la clínica. Los anestésicos locales, como la lidocaína, bloquean los canales de sodio activados por voltaje.","A syringe next to a nerve, with a membrane channel blocked by a small plug.",no
 42,7,"Sin entrada de sodio no hay potencial de acción, y la señal de dolor no llega al sistema nervioso central.","A pain signal traveling along a nerve from a hand and stopping at a blocked point before reaching the brain.",no
 43,7,"Y en enfermedades desmielinizantes, como la esclerosis múltiple, la conducción se enlentece o directamente se bloquea.","Myelinated axon with damaged, patchy myelin segments and a pulse fading out midway.",no
-44,7,"Resumen en tres pasos. Uno: el reposo es negativo gracias a la fuga de potasio y a la bomba.","Neo the doctor character holding up one finger next to a simple membrane with dark spheres leaking out.",no
+44,7,"Resumen en tres pasos. Uno: el reposo es negativo gracias a la fuga de potasio y a la bomba.","A simple membrane at rest with dark spheres leaking out through a channel and a pump beside it.",no
 45,7,"Dos: al llegar al umbral entra sodio y la membrana se despolariza. Tres: sale potasio y se repolariza.","A full spike curve with the rising limb and the falling limb in two different tones, teal on the rising limb.",no
-46,7,"En el próximo video: cómo esa señal cruza la sinapsis. Este contenido es educativo y no reemplaza la consulta médica.","Neo the doctor character waving goodbye next to two neurons with a small gap between them.",no
+46,7,"En el próximo video: cómo esa señal cruza la sinapsis. Este contenido es educativo y no reemplaza la consulta médica.","Two neurons with a small gap between them, the gap highlighted in teal.",no

@@ -12,7 +12,7 @@
 2. 24 horas sin dormir: esto le haces a tu cerebro
 3. Dormir poco te cambia más de lo que crees
 
-**Miniatura:** Tito con ojeras enormes y un ojo naranja, texto "24 H SIN DORMIR".
+**Miniatura:** una persona de trazo simple con ojeras enormes y un ojo naranja, texto "24 H SIN DORMIR".
 
 ## Estructura
 | Escenas | Bloque |

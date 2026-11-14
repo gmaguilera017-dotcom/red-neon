@@ -1,61 +1,61 @@
 n,duracion,narracion,prompt,animar
-1,4,"En 1964, un chico de diecisiete años decidió no dormir.","Tito as a teenager sitting on a bed with wide open eyes, a 1960s alarm clock beside him.",no
-2,4,"Aguantó once días despierto. Once.","A wall calendar with eleven days crossed out in orange, Tito exhausted in front of it.",si
-3,4,"Tú no vas a llegar tan lejos, pero tu cuerpo cambia mucho antes.","Tito yawning at a desk late at night with a laptop glowing.",no
+1,4,"En 1964, un chico de diecisiete años decidió no dormir.","A teenager sitting on a bed with wide open eyes, a 1960s alarm clock beside him.",no
+2,4,"Aguantó once días despierto. Once.","A wall calendar with eleven days crossed out in orange, a person exhausted in front of it.",si
+3,4,"Tú no vas a llegar tan lejos, pero tu cuerpo cambia mucho antes.","A person yawning at a desk late at night with a laptop glowing.",no
 4,4,"Esto es lo que te pasa, hora por hora, cuando no duermes.","A big clock with its hands spinning fast, orange motion lines around it.",si
 5,4,"Desde que te despiertas, tu cerebro acumula una sustancia: adenosina.","A cartoon brain slowly filling with small orange dots.",no
 6,4,"Cuanta más adenosina, más sueño sientes. Es tu reloj de arena interno.","An hourglass with orange sand, almost full at the bottom, inside a head silhouette.",no
 7,4,"El café no la elimina. Solo le tapa el lugar donde actúa.","A coffee cup character blocking a door while orange dots pile up behind it.",no
-8,4,"Por eso, cuando el efecto se va, el cansancio cae todo junto.","Tito collapsing on a desk next to an empty coffee cup, orange dots falling on him.",si
-9,4,"Hora dieciséis despierto. Todavía te sientes bien.","Tito smiling and giving a thumbs up, a clock showing late evening.",no
-10,4,"Pero tu atención ya empezó a tener pequeños apagones.","A light bulb above Tito's head flickering, half on and half off.",no
-11,4,"Hora dieciocho. Reaccionas más lento de lo que crees.","Tito trying to catch a falling ball and missing it.",no
+8,4,"Por eso, cuando el efecto se va, el cansancio cae todo junto.","A person collapsing on a desk next to an empty coffee cup, orange dots falling on him.",si
+9,4,"Hora dieciséis despierto. Todavía te sientes bien.","A person smiling and giving a thumbs up, a clock showing late evening.",no
+10,4,"Pero tu atención ya empezó a tener pequeños apagones.","A light bulb above the person's head flickering, half on and half off.",no
+11,4,"Hora dieciocho. Reaccionas más lento de lo que crees.","A person trying to catch a falling ball and missing it.",no
 12,4,"Un estudio comparó ese estado con haber tomado alcohol.","A scale balancing a tired face on one side and a drink glass on the other.",no
-13,4,"A las veinticuatro horas, rindes como alguien con más alcohol en sangre del permitido para manejar.","Tito sleepy behind a steering wheel, the road ahead wavy and orange.",no
-14,4,"Y lo peor: no te das cuenta. Te sientes más capaz de lo que estás.","Tito looking in a mirror that shows a confident superhero version of himself.",no
-15,4,"Después aparecen los microsueños.","Tito's eyes half closed with a tiny Z floating above his head.",no
+13,4,"A las veinticuatro horas, rindes como alguien con más alcohol en sangre del permitido para manejar.","A person sleepy behind a steering wheel, the road ahead wavy and orange.",no
+14,4,"Y lo peor: no te das cuenta. Te sientes más capaz de lo que estás.","A person looking in a mirror that shows a confident superhero version of himself.",no
+15,4,"Después aparecen los microsueños.","the person's eyes half closed with a tiny Z floating above his head.",no
 16,4,"Tu cerebro se apaga dos o tres segundos, con los ojos abiertos.","A brain with an off switch flipped down, eyes still open below it.",si
 17,4,"En una ruta, tres segundos son casi cien metros a ciegas.","A car on a highway with a long orange stretch of road marked ahead.",no
-18,4,"Mientras tanto, tus emociones se descontrolan.","Tito with a storm cloud and a sun fighting over his head.",no
+18,4,"Mientras tanto, tus emociones se descontrolan.","A person with a storm cloud and a sun fighting over his head.",no
 19,4,"La amígdala, tu alarma emocional, se vuelve mucho más reactiva.","A brain with a small almond-shaped area glowing bright orange like an alarm.",no
 20,4,"Y la parte que la frena, la corteza prefrontal, pierde fuerza.","A brain where the front part is drawn as a tired guard asleep at his post.",no
-21,4,"Resultado: todo te irrita, todo te parece más grave.","Tito furious at a tiny spilled glass of water.",no
-22,4,"También cambia tu hambre.","Tito's stomach drawn with a growling face.",no
+21,4,"Resultado: todo te irrita, todo te parece más grave.","A person furious at a tiny spilled glass of water.",no
+22,4,"También cambia tu hambre.","the person's stomach drawn with a growling face.",no
 23,4,"Sube la grelina, la hormona que te pide comer.","An orange arrow pointing up next to a little hungry monster character.",no
 24,4,"Baja la leptina, la que te avisa que ya estás lleno.","A down arrow next to a small sleepy character holding a stop sign.",no
-25,4,"Y tu cerebro cansado elige lo más calórico que encuentre.","Tito hypnotized, walking toward a giant burger and donuts.",si
+25,4,"Y tu cerebro cansado elige lo más calórico que encuentre.","A person hypnotized, walking toward a giant burger and donuts.",si
 26,4,"Tus defensas también lo sienten.","A small shield character looking tired and cracked.",no
 27,4,"Quienes duermen poco responden peor a las vacunas.","A syringe next to a weak, yawning shield character.",no
-28,4,"Y se resfrían con más facilidad.","Tito wrapped in a blanket with a red nose and a thermometer.",no
+28,4,"Y se resfrían con más facilidad.","A person wrapped in a blanket with a red nose and a thermometer.",no
 29,4,"¿Y la memoria? Dormir es cuando tu cerebro guarda lo que aprendiste.","A brain placing little boxes on a shelf at night, moon in the window.",no
 30,4,"Sin sueño, lo que estudiaste ayer se guarda mal.","Boxes falling off the shelf while a sleepy brain looks at them.",no
-31,4,"Estudiar toda la noche es llenar un vaso que tiene un agujero.","Tito pouring water into a glass that leaks from a hole at the bottom.",no
+31,4,"Estudiar toda la noche es llenar un vaso que tiene un agujero.","A person pouring water into a glass that leaks from a hole at the bottom.",no
 32,4,"Hay algo más. De noche, tu cerebro hace limpieza.","A brain character holding a broom under a moon.",no
 33,4,"El líquido que lo rodea arrastra los desechos del día.","A brain being rinsed by gentle waves carrying away small orange specks.",si
 34,4,"Ese sistema funciona mucho mejor mientras duermes.","A sleeping brain in a bed with a tiny cleaning crew working around it.",no
 35,4,"Dormir poco es dejar la basura adentro otra noche más.","A brain surrounded by piled-up trash bags.",no
-36,4,"¿Y si recupero el fin de semana?","Tito sleeping until noon with a sun high in the window.",no
+36,4,"¿Y si recupero el fin de semana?","A person sleeping until noon with a sun high in the window.",no
 37,4,"Ayuda, pero no devuelve todo.","A piggy bank with a few coins going in and a big crack on its side.",no
-38,4,"Dormir de más dos días no borra una semana de deuda.","A long receipt of sleep debt rolling across the floor, Tito holding its end.",no
-39,4,"La buena noticia: tu cuerpo se recupera rápido si lo ayudas.","Tito stretching happily at sunrise.",no
+38,4,"Dormir de más dos días no borra una semana de deuda.","A long receipt of sleep debt rolling across the floor, a person holding its end.",no
+39,4,"La buena noticia: tu cuerpo se recupera rápido si lo ayudas.","A person stretching happily at sunrise.",no
 40,4,"Uno. Acuéstate y levántate a la misma hora, incluso el sábado.","Two identical clocks side by side, one next to a briefcase and one next to a beach umbrella.",no
 41,4,"Tu reloj interno ama la rutina.","A small clock character hugging a calendar.",no
-42,4,"Dos. Luz natural a la mañana.","Tito opening a window with bright orange sunlight coming in.",no
+42,4,"Dos. Luz natural a la mañana.","A person opening a window with bright orange sunlight coming in.",no
 43,4,"Le avisa a tu cerebro que el día empezó.","A sunbeam hitting an eye, with an arrow going to a waking brain.",no
-44,4,"Y dieciséis horas después, te va a dar sueño.","A clock moving from morning sun to night moon with an arrow, Tito yawning at the end.",no
+44,4,"Y dieciséis horas después, te va a dar sueño.","A clock moving from morning sun to night moon with an arrow, a person yawning at the end.",no
 45,4,"Tres. El último café, ocho horas antes de dormir.","A coffee cup with a crossed-out circle over it and an afternoon clock.",no
-46,4,"La cafeína dura en tu cuerpo mucho más de lo que sientes.","A coffee cup character still awake inside Tito's body at night.",no
+46,4,"La cafeína dura en tu cuerpo mucho más de lo que sientes.","A coffee cup character still awake inside the person's body at night.",no
 47,4,"Cuatro. Habitación oscura y fresca.","A dark bedroom with a moon outside and a small snowflake icon.",no
-48,4,"Tu temperatura tiene que bajar para que te duermas.","A thermometer with an orange level going down next to a sleeping Tito.",no
-49,4,"Cinco. El celular, fuera de la cama.","A phone resting on a table far from a bed where Tito sleeps.",no
-50,4,"No es solo la luz. Es que no te deja desconectar.","A phone with notification bubbles pulling Tito's eyelids open with strings.",si
-51,4,"¿Y el chico de los once días?","The teenage Tito from the first scene, very tired, with a calendar behind him.",no
-52,4,"Terminó con problemas para hablar, concentrarse y recordar.","Tito with a speech bubble full of scribbles and question marks around his head.",no
-53,4,"Al final durmió catorce horas seguidas.","Tito sleeping deeply in bed with a long row of Z letters drawn as zigzag lines.",no
+48,4,"Tu temperatura tiene que bajar para que te duermas.","A thermometer with an orange level going down next to a sleeping a person.",no
+49,4,"Cinco. El celular, fuera de la cama.","A phone resting on a table far from a bed where a person sleeps.",no
+50,4,"No es solo la luz. Es que no te deja desconectar.","A phone with notification bubbles pulling the person's eyelids open with strings.",si
+51,4,"¿Y el chico de los once días?","The teenager from the first scene, very tired, with a calendar behind him.",no
+52,4,"Terminó con problemas para hablar, concentrarse y recordar.","A person with a speech bubble full of scribbles and question marks around his head.",no
+53,4,"Al final durmió catorce horas seguidas.","A person sleeping deeply in bed with a long row of Z letters drawn as zigzag lines.",no
 54,4,"Y el libro Guinness dejó de registrar ese récord, por peligroso.","A big record book closed with a padlock on it.",no
-55,4,"Dormir no es perder el tiempo.","Tito sleeping peacefully with a small crown on his head.",no
+55,4,"Dormir no es perder el tiempo.","A person sleeping peacefully with a small crown on his head.",no
 56,4,"Es cuando tu cuerpo se repara, ordena y limpia.","Inside view of a sleeping body with tiny workers repairing, sorting and cleaning.",si
 57,4,"Esta noche, regálate una hora más.","A clock with one extra orange slice added, wrapped with a gift ribbon.",no
-58,4,"Mañana vas a notar la diferencia.","Tito energetic in the morning, jumping out of bed.",no
-59,4,"Si aprendiste algo, suscríbete: cada semana, una curiosidad de tu cuerpo.","Tito pointing at a big orange button with a bell beside it.",no
-60,4,"Este video es informativo y no reemplaza una consulta médica.","Tito waving goodbye next to a small stethoscope icon.",no
+58,4,"Mañana vas a notar la diferencia.","A person energetic in the morning, jumping out of bed.",no
+59,4,"Si aprendiste algo, suscríbete: cada semana, una curiosidad de tu cuerpo.","A person pointing at a big orange button with a bell beside it.",no
+60,4,"Este video es informativo y no reemplaza una consulta médica.","A person waving goodbye next to a small stethoscope icon.",no

@@ -11,6 +11,5 @@
   "fuente_archivo": "",
   "tamano_subtitulos": 22,
   "volumen_musica": 0.12,
-  "personaje": "Tito",
-  "estilo_prompt": "Minimalist hand-drawn cartoon, thick black outlines on a plain white background, flat shading, a single accent color orange (#FF6B00), no text or letters in the image, 16:9. Main character 'Tito' (same as the reference image): a simple round-headed cartoon guy with dot eyes, an orange beanie and a black t-shirt."
+  "estilo_prompt": "Minimalist hand-drawn cartoon, thick black outlines on a plain white background, flat shading, a single accent color orange (#FF6B00), no text or letters in the image, 16:9. Any person is drawn as a generic anonymous stick figure with a plain round head, never a recurring character or mascot."
 }

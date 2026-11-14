@@ -17,9 +17,10 @@
 ## Estilo visual
 - Caricatura de trazo negro grueso sobre fondo blanco, **naranja (#FF6B00)** como único color
   de acento. El bloque exacto está en `canal.json`.
-- Protagonista fijo: **Tito**, cabeza redonda, ojos de punto, gorro naranja y remera negra.
-  Generarlo una vez, guardarlo en `referencias/personaje_principal.jpg` y subirlo siempre como
-  referencia al generador.
+- Sin mascota ni personaje fijo. Cuando hace falta una persona, es una figura anónima de
+  trazo simple (cabeza redonda, sin rasgos propios).
+- Para mantener el mismo trazo en todo el video: generar primero 2-3 imágenes, elegir la
+  mejor, guardarla en `referencias/estilo.jpg` y subirla como referencia de estilo.
 - Sin texto dentro de las imágenes.
 
 ## Voz y tono

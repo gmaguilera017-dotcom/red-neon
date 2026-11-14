@@ -23,9 +23,7 @@ manda Guyton y Hall más reciente y se aclara en el video si el dato cambió.
 ## Estilo visual
 - Esquema tipo pizarra: trazo azul oscuro sobre fondo blanco, **turquesa (#00A8A8)** solo para
   resaltar la estructura de la que se habla. El bloque exacto está en `canal.json`.
-- Personaje guía: **Neo**, médico caricaturesco de cabeza redonda, guardapolvo blanco y
-  estetoscopio turquesa. Aparece en apertura, resumen y cierre, no en los esquemas.
-  Generarlo una vez y guardarlo en `referencias/personaje_principal.jpg`.
+- Sin personajes ni mascotas: solo esquemas.
 - Rótulos, valores y flechas con texto se agregan en montaje, nunca dentro del prompt.
 - Revisar cada imagen: la IA inventa estructuras, lateralidad y sentido de los flujos.
 

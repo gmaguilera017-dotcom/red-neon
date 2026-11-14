@@ -11,7 +11,7 @@ Cada uno ya tiene su primer video guionado en `canales/<canal>/videos/01_…`. B
 | 1 | Crear el proyecto | `estudio.py nuevo` | carpetas `00_…06_` |
 | 2 | Guion + escenas + reels | Claude con `plantillas/prompt_maestro.md` + `canal.md` | `01_Guion/guion.md`, `escenas.csv`, `reels.csv` |
 | 2b | Prompts listos y texto para la voz | `estudio.py prompts` | `01_Guion/prompts_para_flow.txt`, `04_Voz/texto_para_voz.txt` |
-| 3 | Imágenes (una por escena) | Google Flow u otro generador, con `personaje_principal.jpg` de referencia | `02_Imagenes/escena_001.png`… |
+| 3 | Imágenes (una por escena) | Google Flow u otro generador, con una imagen de estilo de referencia | `02_Imagenes/escena_001.png`… |
 | 4 | Animar ~10 % de las escenas (opcional) | mismo generador, imagen → video | `03_Animaciones/escena_012.mp4`… |
 | 5 | Voz | grabación propia o TTS (ElevenLabs, etc.) leyendo `guion.md` | `04_Voz/narracion.mp3` |
 | 6 | Música (opcional) | biblioteca libre de derechos | `05_Musica/musica.mp3` |
@@ -52,7 +52,8 @@ cambia las duraciones.
   y promocionan su academia paga; tomarlas como publicidad, no como resultado esperable).
 - Método: elegir un canal de referencia del nicho (el ejemplo: caricaturas simples, 38 videos) →
   darle el link a Claude para que lo analice y haga preguntas → Claude entrega guion de ~10 min,
-  164 escenas de ~4 s con narración y prompt, y un personaje fijo guardado como referencia →
+  164 escenas de ~4 s con narración y prompt, y un personaje fijo como referencia (acá no se
+  usa: los canales van sin mascota) →
   imágenes generadas en Google Flow → animar algunas → cortar ~11 reels desde el video largo
   (imagen horizontal centrada sobre fondo blanco) → montaje final.
 - Este estudio reproduce ese flujo y agrega lo que el video no muestra: el montaje automático

@@ -12,7 +12,7 @@
 3. Sodio entra, potasio sale: el potencial de acción sin vueltas
 
 **Miniatura:** curva del potencial de acción en trazo azul oscuro con la fase ascendente en
-turquesa, Neo señalándola, texto "−70 → +35 mV".
+turquesa, texto "−70 → +35 mV".
 
 ## Estructura
 | Escenas | Bloque |
