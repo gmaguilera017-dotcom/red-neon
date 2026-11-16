@@ -46,10 +46,10 @@ manda Guyton y Hall más reciente y se aclara en el video si el dato cambió.
 | N.º | Tema | Unidad de Guyton y Hall |
 |---|---|---|
 | 01 | Potencial de acción, paso a paso (**guionado**) | Fisiología de la membrana, nervio y músculo |
-| 02 | Sinapsis: cómo pasa la señal de una neurona a otra | Sistema nervioso: principios generales |
-| 03 | Contracción del músculo esquelético: actina y miosina | Membrana, nervio y músculo |
-| 04 | Placa neuromuscular y acoplamiento excitación-contracción | Membrana, nervio y músculo |
-| 05 | Ciclo cardíaco: presiones, volúmenes y ruidos | El corazón |
+| 02 | Sinapsis: cómo pasa la señal de una neurona a otra (**guionado**) | Sistema nervioso: principios generales |
+| 03 | Contracción del músculo esquelético: actina y miosina (**guionado**) | Membrana, nervio y músculo |
+| 04 | Placa neuromuscular y acoplamiento excitación-contracción (**guionado**) | Membrana, nervio y músculo |
+| 05 | Ciclo cardíaco: presiones, volúmenes y ruidos (**guionado**) | El corazón |
 | 06 | Potencial de acción cardíaco y sistema de conducción | El corazón |
 | 07 | Gasto cardíaco y ley de Frank-Starling | La circulación |
 | 08 | Regulación de la presión arterial: barorreceptores y riñón | La circulación |

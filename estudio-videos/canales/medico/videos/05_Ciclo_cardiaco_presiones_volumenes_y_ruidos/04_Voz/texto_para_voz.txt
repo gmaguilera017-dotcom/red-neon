@@ -1,0 +1,40 @@
+Tu corazón late unas cien mil veces por día, y en cada latido repite exactamente la misma secuencia.
+Esa secuencia es el ciclo cardíaco. Si la entiendes, entiendes los ruidos, los soplos y medio examen de cardiología.
+Primero, el mapa. El corazón tiene cuatro cavidades: dos aurículas arriba y dos ventrículos abajo.
+Entre aurículas y ventrículos están las válvulas auriculoventriculares: la tricúspide a la derecha y la mitral a la izquierda.
+A la salida de los ventrículos están las válvulas semilunares: la pulmonar y la aórtica.
+Las válvulas no tienen motor. Se abren y se cierran solo por diferencias de presión.
+El ciclo tiene dos grandes momentos. En la diástole, el ventrículo se relaja y se llena.
+En la sístole, el ventrículo se contrae y expulsa la sangre.
+Con setenta y cinco latidos por minuto, cada ciclo dura ocho décimas de segundo.
+Vamos a seguir al ventrículo izquierdo. Empezamos al final de la diástole, con el ventrículo casi lleno.
+La válvula mitral está abierta, y la sangre pasa de la aurícula al ventrículo por su propio peso.
+Entonces se contrae la aurícula y empuja el último tramo del llenado, cerca del veinte por ciento.
+El ventrículo queda con su volumen máximo: el volumen de fin de diástole, de unos ciento veinte mililitros.
+Ahora el ventrículo empieza a contraerse. Su presión supera a la de la aurícula, y la válvula mitral se cierra.
+Ese cierre, junto con el de la tricúspide, produce el primer ruido cardíaco.
+Por un instante, las dos válvulas del ventrículo están cerradas. La presión sube, pero el volumen no cambia.
+Es la contracción isovolumétrica: el ventrículo hace fuerza sin acortarse.
+Cuando la presión del ventrículo supera a la de la aorta, cerca de ochenta milímetros de mercurio, se abre la válvula aórtica.
+Empieza la eyección. La sangre sale hacia la aorta, primero rápido y después más lento.
+La presión llega a su máximo, alrededor de ciento veinte milímetros de mercurio. Es la presión sistólica.
+El ventrículo no se vacía del todo. Quedan unos cincuenta mililitros: el volumen de fin de sístole.
+Lo que salió es el volumen sistólico, de unos setenta mililitros por latido.
+Y la fracción de eyección es la parte del volumen de fin de diástole que el ventrículo expulsa: normalmente, alrededor del sesenta por ciento.
+Termina la sístole. El ventrículo se relaja y su presión cae por debajo de la de la aorta.
+La sangre intenta volver, y eso cierra la válvula aórtica.
+Ese cierre, junto con el de la pulmonar, produce el segundo ruido cardíaco.
+En la curva de presión aórtica queda una pequeña muesca: la incisura.
+Otra vez las dos válvulas están cerradas. La presión cae sin que cambie el volumen: es la relajación isovolumétrica.
+Cuando la presión del ventrículo baja por debajo de la de la aurícula, se abre la válvula mitral.
+La sangre acumulada en la aurícula entra de golpe. Es el llenado rápido, que aporta la mayor parte del volumen.
+Después el llenado se hace lento, hasta que la aurícula vuelve a contraerse. Y el ciclo empieza de nuevo.
+En el corazón derecho ocurre lo mismo y al mismo tiempo, pero con presiones mucho más bajas.
+¿Y el electrocardiograma? La onda P aparece justo antes de la contracción de las aurículas.
+El complejo QRS aparece justo antes de la contracción de los ventrículos, y la onda T acompaña su relajación.
+Primero viene la señal eléctrica, y después el fenómeno mecánico.
+Llevemos esto a la clínica. Un soplo es el ruido de la sangre al pasar con turbulencia por una válvula.
+Si la válvula aórtica está estrecha, el soplo se oye en la sístole, cuando la sangre sale por ella.
+Si no cierra bien, el soplo se oye en la diástole, cuando la sangre vuelve hacia el ventrículo.
+Resumen: llenado, contracción isovolumétrica, eyección y relajación isovolumétrica. Las válvulas se mueven por presión, y sus cierres son los dos ruidos.
+En el próximo video: el potencial de acción cardíaco. Este contenido es educativo y no reemplaza la consulta médica.

@@ -38,10 +38,10 @@
 | N.º | Título |
 |---|---|
 | 01 | ¿Qué le pasa a tu cuerpo cuando no duermes? (**guionado**) |
-| 02 | ¿Por qué te da sueño después de comer? |
-| 03 | ¿Qué hace el estrés dentro de tu cuerpo? |
-| 04 | ¿Por qué se te olvida todo lo que estudias? |
-| 05 | 24 horas sin comer: qué pasa hora por hora |
+| 02 | ¿Por qué te da sueño después de comer? (**guionado**) |
+| 03 | ¿Qué hace el estrés dentro de tu cuerpo? (**guionado**) |
+| 04 | ¿Por qué se te olvida todo lo que estudias? (**guionado**) |
+| 05 | 24 horas sin comer: qué pasa hora por hora (**guionado**) |
 | 06 | ¿Por qué el café a algunos no les hace nada? |
 | 07 | ¿Qué pasa en tu cuerpo cuando te enamoras? |
 | 08 | ¿Por qué te duele la cabeza? |

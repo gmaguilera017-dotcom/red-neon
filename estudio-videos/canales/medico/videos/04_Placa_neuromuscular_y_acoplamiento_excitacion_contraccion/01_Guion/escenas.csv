@@ -1,0 +1,41 @@
+n,duracion,narracion,prompt,animar
+1,7,"Decides mover un dedo, y en milésimas de segundo el músculo obedece. ¿Cómo le llega la orden?","A finger moving with a nerve reaching the forearm muscle, the nerve highlighted in teal.",si
+2,7,"El punto donde el nervio le habla al músculo se llama placa neuromuscular. Hoy la vamos a recorrer paso a paso.","A nerve ending resting on the surface of a muscle fiber, the contact zone highlighted in teal.",no
+3,7,"Cada fibra muscular esquelética recibe una sola terminación nerviosa, de una neurona motora que viene de la médula espinal.","A motor neuron leaving the spinal cord, its axon traveling to a muscle and ending on a single fiber.",no
+4,7,"Una neurona motora y todas las fibras que inerva forman una unidad motora.","One motor neuron branching to several muscle fibers, all highlighted in teal as one group.",no
+5,7,"La terminal nerviosa se apoya en una depresión de la fibra muscular, sin llegar a tocarla.","Cross-section of a nerve terminal sitting in a groove on the muscle fiber surface with a narrow gap between them.",no
+6,7,"Del lado del músculo, la membrana tiene muchos pliegues que aumentan la superficie disponible para los receptores.","Muscle membrane under a nerve terminal with many deep folds, the folds highlighted in teal.",no
+7,7,"En la terminal hay miles de vesículas cargadas de un neurotransmisor: la acetilcolina.","Inside of a nerve terminal filled with many small round vesicles and mitochondria.",no
+8,7,"Cuando llega el potencial de acción, se abren canales de calcio activados por voltaje, y el calcio entra a la terminal.","An electrical pulse reaching a nerve terminal, channels opening and calcium ions flowing in.",si
+9,7,"El calcio hace que las vesículas se fusionen con la membrana y liberen la acetilcolina a la hendidura.","Vesicles fusing with the terminal membrane and releasing small dots into the gap.",si
+10,7,"Con cada impulso se libera el contenido de más de cien vesículas.","Many vesicles opening at once along the terminal membrane.",no
+11,7,"La acetilcolina cruza la hendidura y se une a su receptor: el receptor nicotínico.","Small dots crossing the gap and binding to receptors on the folded muscle membrane.",no
+12,7,"Ese receptor es un canal iónico. Se abre cuando se le unen dos moléculas de acetilcolina.","A channel-shaped receptor with two dots bound on top and its central pore opening.",no
+13,7,"Por el canal abierto entra, sobre todo, sodio. La membrana muscular se despolariza en esa zona.","Sodium ions rushing through an open receptor channel into the muscle fiber.",no
+14,7,"Ese cambio local se llama potencial de placa terminal.","A graph showing a rounded upward deflection, highlighted in teal, next to the junction.",no
+15,7,"Es tan grande que supera con holgura el umbral. A ese margen se lo llama factor de seguridad.","A graph where a large deflection rises well above a dashed threshold line, the extra margin highlighted in teal.",no
+16,7,"Por eso, en condiciones normales, cada impulso del nervio produce un potencial de acción en el músculo.","Two aligned spike traces: one from the nerve above, one from the muscle below, each nerve spike matched by a muscle spike.",no
+17,7,"La señal tiene que terminar enseguida. De eso se ocupa una enzima de la hendidura: la acetilcolinesterasa.","An enzyme in the synaptic gap cutting a neurotransmitter molecule into two pieces.",no
+18,7,"La enzima parte la acetilcolina en acetato y colina, y la terminal recapta la colina para fabricar más.","Two fragments in the gap, one of them being taken back into the nerve terminal through a transporter.",no
+19,7,"Ahora el potencial de acción recorre toda la membrana de la fibra muscular, en las dos direcciones.","A muscle fiber with an electrical wave spreading from the middle toward both ends.",si
+20,7,"Pero la fibra es gruesa, y las miofibrillas del centro están lejos de la superficie.","Cross-section of a thick muscle fiber showing many myofibrils, the ones in the center marked as far from the edge.",no
+21,7,"Para llegar hasta ellas, la membrana forma los túbulos T, que penetran hacia el interior de la fibra.","Muscle fiber with tube-like invaginations going from the surface membrane deep into the fiber.",no
+22,7,"A cada lado del túbulo T hay una cisterna del retículo sarcoplásmico, llena de calcio. El conjunto se llama tríada.","A tubule flanked by two enlarged sacs full of calcium ions, the three structures highlighted together.",no
+23,7,"En la membrana del túbulo T hay un sensor de voltaje: el receptor de dihidropiridina.","Close-up of a tubule membrane with a sensor protein embedded in it, highlighted in teal.",no
+24,7,"Ese sensor está unido a un canal del retículo sarcoplásmico: el receptor de rianodina.","A sensor protein in one membrane physically linked to a channel protein in the neighboring membrane.",no
+25,7,"Cuando llega el potencial de acción, el sensor cambia de forma y abre ese canal.","The sensor protein shifting shape and pulling open the linked channel.",no
+26,7,"El calcio sale del retículo hacia el citoplasma, y su concentración sube en milésimas de segundo.","Calcium ions pouring out of a sac through an open channel into the space around the myofibrils.",si
+27,7,"Ese calcio se une a la troponina, y empieza la contracción que vimos en el video anterior.","Calcium ions binding to a thin filament and a thick filament head attaching to it.",no
+28,7,"A todo este recorrido, de la señal eléctrica a la fuerza mecánica, se lo llama acoplamiento excitación-contracción.","A chain diagram of four icons linked by arrows: nerve pulse, tubule, calcium release, sliding filaments.",no
+29,7,"Para relajar, una bomba del retículo sarcoplásmico vuelve a guardar el calcio, gastando ATP.","A pump in the sac membrane moving calcium ions back inside, with an energy symbol.",no
+30,7,"Llevemos esto a la clínica. En la miastenia gravis, el sistema inmune fabrica anticuerpos contra los receptores de acetilcolina.","Y-shaped antibodies attached to receptors on the folded muscle membrane, blocking them.",no
+31,7,"Con menos receptores disponibles, el potencial de placa es más chico, y el músculo se fatiga con facilidad.","A graph with a small deflection barely reaching a dashed threshold line, next to a drooping eyelid.",no
+32,7,"Se trata con fármacos que inhiben la acetilcolinesterasa, como la neostigmina.","An enzyme in the synaptic gap with a small plug blocking it, many neurotransmitter dots accumulating.",no
+33,7,"La acetilcolina dura más tiempo en la hendidura, y aprovecha mejor los receptores que quedan.","A gap crowded with dots binding repeatedly to the few remaining free receptors.",no
+34,7,"El curare, en cambio, ocupa el receptor sin abrirlo. El resultado es parálisis.","A molecule sitting on a receptor channel that stays closed, a neurotransmitter dot unable to bind.",no
+35,7,"Y la toxina botulínica impide directamente que las vesículas liberen acetilcolina.","Vesicles stuck inside a nerve terminal, unable to fuse with the membrane.",no
+36,7,"Resumen en tres pasos. Uno: el nervio libera acetilcolina, que abre los receptores nicotínicos.","A nerve terminal releasing dots onto receptors of the muscle membrane, highlighted in teal.",no
+37,7,"Dos: el potencial de acción viaja por la membrana y entra por los túbulos T.","A muscle fiber with an electrical wave traveling along the surface and down into the tubules.",no
+38,7,"Tres: el retículo sarcoplásmico libera calcio, y el músculo se contrae.","Sacs releasing calcium ions around myofibrils that shorten.",no
+39,7,"En el próximo video dejamos el músculo esquelético y pasamos al corazón: el ciclo cardíaco.","A simple heart diagram with four chambers, highlighted in teal.",no
+40,7,"Este contenido es educativo y no reemplaza la consulta médica.","A stethoscope lying next to an open textbook.",no
