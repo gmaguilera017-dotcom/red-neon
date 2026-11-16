@@ -1,0 +1,46 @@
+Cada vez que mueves un dedo, una señal eléctrica recorre tus nervios a más de cien metros por segundo.
+Esa señal se llama potencial de acción, y en cinco minutos vas a entender cómo se genera, paso a paso.
+Empecemos por el escenario: la membrana de la neurona, una doble capa de lípidos que separa dos mundos.
+Afuera de la célula abunda el sodio. Adentro abunda el potasio, junto con proteínas de carga negativa.
+Esa diferencia no es casual. La mantiene la bomba de sodio y potasio, que trabaja gastando ATP.
+En cada ciclo, la bomba saca tres iones de sodio y mete dos de potasio. Sale más carga positiva de la que entra.
+Además, la membrana en reposo tiene canales de fuga de potasio, que lo dejan escapar hacia afuera.
+Al salir potasio, el interior pierde cargas positivas y queda negativo con respecto al exterior.
+Ese es el potencial de membrana en reposo: alrededor de menos setenta milivoltios en una fibra nerviosa grande.
+La neurona en reposo es como una batería cargada: tiene energía guardada, lista para usarse.
+Para usarla hacen falta otros protagonistas: los canales de sodio y de potasio activados por voltaje.
+El canal de sodio tiene dos compuertas: una de activación, hacia afuera, y otra de inactivación, hacia adentro.
+En reposo, la compuerta de activación está cerrada. El sodio no puede entrar, aunque tenga todo a favor.
+Ahora llega un estímulo. La membrana se despolariza un poco, es decir, se vuelve menos negativa.
+Si el estímulo es débil y no alcanza el umbral, la membrana vuelve al reposo y no pasa nada más.
+Pero si llega al umbral, cerca de menos cincuenta y cinco milivoltios, se dispara algo que ya no tiene vuelta atrás.
+Se abren los canales de sodio. El sodio entra de golpe, empujado por su gradiente de concentración y por la carga negativa interior.
+Esa entrada despolariza más la membrana, y eso abre todavía más canales de sodio.
+Es una retroalimentación positiva: cuanto más sodio entra, más canales se abren.
+En menos de un milisegundo, el potencial sube de valores negativos hasta valores positivos. Esa es la fase de despolarización.
+El interior de la célula queda, por un instante, positivo. A ese exceso se lo llama sobreexcitación u overshoot.
+Pero el pico dura muy poco, porque el mismo voltaje que abrió el canal de sodio también lo inactiva.
+La compuerta de inactivación se cierra, más lenta que la primera, y el sodio deja de entrar.
+Al mismo tiempo se abren los canales de potasio activados por voltaje, que son más lentos.
+Ahora es el potasio el que sale de la célula, y se lleva consigo cargas positivas.
+El potencial cae de nuevo hacia valores negativos. Esa es la fase de repolarización.
+Los canales de potasio tardan en cerrarse, así que la membrana queda por un momento más negativa que en reposo.
+Es la hiperpolarización posterior, o pospotencial. Después, la membrana vuelve a su valor de reposo.
+Un detalle importante: en cada potencial de acción se mueven muy pocos iones. Las concentraciones casi no cambian.
+La bomba de sodio y potasio no genera el potencial de acción. Mantiene los gradientes a largo plazo.
+Mientras los canales de sodio están inactivados, ningún estímulo puede generar otro potencial. Es el período refractario absoluto.
+Luego viene el período refractario relativo: se puede disparar otro potencial, pero hace falta un estímulo mayor.
+Por eso el potencial de acción avanza en un solo sentido, y por eso tiene una frecuencia máxima.
+También explica la ley del todo o nada: si se alcanza el umbral, el potencial ocurre completo. Si no, no ocurre.
+La intensidad del estímulo no cambia el tamaño del potencial. Cambia cuántos potenciales se disparan por segundo.
+¿Y cómo viaja? La zona despolarizada genera corrientes locales que llevan al umbral a la zona vecina.
+Así se propaga a lo largo del axón, como una fila de fichas de dominó que caen una tras otra.
+En las fibras sin mielina, ese avance es continuo y lento: desde un cuarto de metro por segundo.
+En las fibras mielínicas, la vaina de mielina aísla el axón y solo deja membrana expuesta en los nódulos de Ranvier.
+El potencial salta de nódulo en nódulo. Es la conducción saltatoria: mucho más rápida y con menos gasto de energía.
+Llevemos esto a la clínica. Los anestésicos locales, como la lidocaína, bloquean los canales de sodio activados por voltaje.
+Sin entrada de sodio no hay potencial de acción, y la señal de dolor no llega al sistema nervioso central.
+Y en enfermedades desmielinizantes, como la esclerosis múltiple, la conducción se enlentece o directamente se bloquea.
+Resumen en tres pasos. Uno: el reposo es negativo gracias a la fuga de potasio y a la bomba.
+Dos: al llegar al umbral entra sodio y la membrana se despolariza. Tres: sale potasio y se repolariza.
+En el próximo video: cómo esa señal cruza la sinapsis. Este contenido es educativo y no reemplaza la consulta médica.

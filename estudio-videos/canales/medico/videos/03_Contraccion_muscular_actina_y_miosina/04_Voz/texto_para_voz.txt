@@ -1,0 +1,40 @@
+Para levantar una taza de café, miles de millones de proteínas diminutas tiran al mismo tiempo dentro de tu brazo.
+Hoy vas a ver cómo se contrae el músculo esquelético, desde el músculo entero hasta la molécula.
+Un músculo está formado por fibras musculares: células largas, cilíndricas y con muchos núcleos.
+Dentro de cada fibra hay cientos de miofibrillas, y cada miofibrilla es una cadena de unidades repetidas.
+Esa unidad es el sarcómero, que va de un disco Z al siguiente. Es la unidad funcional de la contracción.
+El sarcómero tiene dos tipos de filamentos. Los delgados, de actina, están anclados a los discos Z.
+Los gruesos, de miosina, ocupan el centro. Cada uno tiene cientos de cabezas que apuntan hacia la actina.
+Esa disposición explica las estrías: la banda A, oscura, donde hay miosina, y la banda I, clara, donde solo hay actina.
+Al contraerse, los filamentos no se acortan. Se deslizan unos sobre otros.
+La actina se desplaza hacia el centro, los discos Z se acercan y el sarcómero se acorta.
+Es la teoría del filamento deslizante. La banda I se achica, y la banda A no cambia de largo.
+¿Quién hace la fuerza? Las cabezas de miosina. Se unen a la actina y forman los puentes cruzados.
+Pero en reposo no pueden unirse, porque los sitios activos de la actina están tapados.
+Los tapa la tropomiosina, una proteína alargada que recorre el filamento delgado.
+Y a la tropomiosina la sostiene en su lugar el complejo de troponina.
+La llave que destraba todo es el calcio.
+Cuando llega el potencial de acción, el retículo sarcoplásmico libera calcio al interior de la fibra.
+El calcio se une a la troponina C. La troponina cambia de forma y arrastra a la tropomiosina.
+Los sitios activos quedan libres, y las cabezas de miosina pueden unirse a la actina.
+Ahora empieza el ciclo de los puentes cruzados, que tiene cuatro pasos.
+Uno. La cabeza de miosina, cargada de energía por haber partido una molécula de ATP, se une a la actina.
+Dos. La cabeza se inclina y arrastra al filamento de actina hacia el centro. Es el golpe de fuerza.
+Tres. Una nueva molécula de ATP se une a la cabeza, y la cabeza se suelta de la actina.
+Cuatro. El ATP se hidroliza, la cabeza se vuelve a cargar y queda lista para unirse más adelante.
+Cada cabeza repite el ciclo muchas veces por segundo, como remeros que no reman todos a la vez.
+Mientras haya calcio y ATP, el ciclo continúa y el músculo sigue generando fuerza.
+¿De dónde sale tanto ATP? Primero de la fosfocreatina, después de la glucólisis y por último del metabolismo oxidativo.
+Para relajarse, el músculo tiene que retirar el calcio.
+Una bomba de la membrana del retículo sarcoplásmico lo vuelve a guardar. Esa bomba también gasta ATP.
+Sin calcio, la tropomiosina vuelve a tapar los sitios activos y los filamentos se deslizan de vuelta.
+Fíjate en esto: el ATP hace falta para contraer, pero también para soltar y para relajar.
+Eso explica la rigidez cadavérica. Sin ATP, las cabezas de miosina quedan pegadas a la actina.
+El músculo queda rígido durante horas, hasta que las proteínas empiezan a degradarse.
+La fuerza depende de la longitud del sarcómero. Hay un largo óptimo, con la máxima superposición útil.
+Si el sarcómero está demasiado estirado, pocas cabezas alcanzan la actina y la fuerza cae.
+Si está demasiado acortado, los filamentos se estorban entre sí, y la fuerza también cae.
+Resumen en tres pasos. Uno: el calcio se une a la troponina y destapa la actina.
+Dos: la miosina se une, tira y se suelta, gastando ATP en cada ciclo.
+Tres: al retirarse el calcio, el músculo se relaja.
+En el próximo video: la placa neuromuscular. Este contenido es educativo y no reemplaza la consulta médica.

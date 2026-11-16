@@ -1,0 +1,49 @@
+n,duracion,narracion,prompt,animar
+1,4,"Son las tres de la tarde. Acabas de almorzar.","A person at an office desk after lunch, an empty plate beside the keyboard, a wall clock showing mid afternoon.",no
+2,4,"Y de pronto, los párpados te pesan una tonelada.","A person with eyelids drawn as heavy weights pulling down.",si
+3,4,"No es flojera. Tiene nombre: somnolencia posprandial.","A person yawning with a big empty speech bubble shaped like a medical badge.",no
+4,4,"Y tiene explicación. De hecho, varias a la vez.","Several puzzle pieces coming together above a sleepy head.",no
+5,4,"Primero, el mito más repetido.","A big stamp mark crossing out a thought bubble.",no
+6,4,"Dicen que la sangre se va al estómago y deja al cerebro sin riego.","Cartoon arrows moving from a head down to a stomach.",no
+7,4,"Falso. Tu cerebro tiene el riego protegido, comas lo que comas.","A brain wearing a small shield, blood vessels around it steady.",no
+8,4,"Lo que sí cambia es quién manda en tu sistema nervioso.","Two cartoon drivers fighting over one steering wheel inside a head.",no
+9,4,"Cuando comes, se activa el modo descanso y digestión.","A stomach character relaxing on a couch with a dimmed lamp.",no
+10,4,"Es el sistema parasimpático. Baja el ritmo, relaja, te calma.","A heart beating slowly with a slow wave line next to it.",no
+11,4,"Lo contrario del modo alerta que usas para trabajar.","Split image: left an alert person with lightning bolts, right a calm drowsy person.",no
+12,4,"Segundo: el tamaño del plato.","A huge overflowing plate next to a small plate.",no
+13,4,"Cuanto más grande la comida, más fuerte el bajón.","A person shrinking with sleepiness behind a mountain of food.",si
+14,4,"Y pesa más si tiene mucha harina, azúcar o grasa.","White bread, sweets and fried food drawn in a pile with an orange highlight.",no
+15,4,"Tercero: el azúcar en sangre.","A blood vessel with small sugar cubes floating inside.",no
+16,4,"Después de comer sube la glucosa, y con ella la insulina.","A rising curve with a second curve following it, drawn in orange.",no
+17,4,"En tu cerebro hay neuronas que te mantienen despierto: las de orexina.","A brain with a small group of neurons holding up tiny eyelids with sticks.",no
+18,4,"Y cuando la glucosa sube, esas neuronas bajan su actividad.","The same small neurons getting sleepy and dropping the sticks as sugar cubes float by.",si
+19,4,"Menos orexina, menos alerta.","A dimmer switch being turned down next to a brain.",no
+20,4,"Cuarto, y este casi nadie lo sabe.","A person leaning in to hear a secret, hand at the ear.",no
+21,4,"Tu reloj interno tiene un bajón programado después del mediodía.","A body clock with a dip marked in orange in the early afternoon.",no
+22,4,"Pasa aunque no hayas almorzado.","A person yawning in the afternoon next to an empty untouched plate.",no
+23,4,"Por eso tantas culturas inventaron la siesta.","A person napping in a hammock under a tree with a sun overhead.",no
+24,4,"Si a ese bajón le sumas un plato enorme, el resultado es obvio.","A plus sign between a clock with a dip and a huge plate, equals a sleeping face.",no
+25,4,"¿Y el triptófano del pavo, o del pollo?","A roast chicken on a plate with a question mark over it.",no
+26,4,"Otro mito a medias. Tienen lo mismo que muchas otras carnes.","A chicken, a steak and a fish lined up with equal signs between them.",no
+27,4,"Lo que te tumba en las fiestas es la cantidad. Y el alcohol.","A holiday table full of food and a couple of glasses, a person asleep on a chair.",no
+28,4,"Ahora lo útil: cómo evitar el bajón.","A person rolling up sleeves in front of a checklist with empty boxes.",no
+29,4,"Uno. Come menos cantidad al mediodía.","A medium plate with a moderate portion, an orange check mark beside it.",no
+30,4,"Es mejor repartir que llenarte de una sola vez.","Three small plates in a row instead of one giant plate.",no
+31,4,"Dos. Suma proteína y fibra, y baja las harinas blancas.","A plate divided into vegetables, a piece of chicken and a small portion of rice.",no
+32,4,"La glucosa sube más despacio, y el bajón es más suave.","Two curves: a tall sharp spike crossed out and a gentle low hill highlighted in orange.",no
+33,4,"Tres. Camina diez minutos después de comer.","A person walking outside right after a meal, a small clock showing ten minutes.",si
+34,4,"Tus músculos usan esa glucosa, y el pico se achata.","Leg muscles absorbing sugar cubes as a person walks.",no
+35,4,"Cuatro. Busca luz natural.","A person standing by a bright window with sunlight on the face.",no
+36,4,"La luz le dice a tu cerebro que todavía es de día.","A sunbeam reaching an eye and a small brain waking up.",no
+37,4,"Cinco. Toma agua. La deshidratación leve también da sueño.","A glass of water with an orange check mark, a wilted plant perking up.",no
+38,4,"Seis. Si puedes, una siesta corta.","A person napping on a sofa with a small timer beside them.",no
+39,4,"Diez a veinte minutos. No más.","A timer showing a short interval highlighted in orange.",no
+40,4,"Si te pasas, entras en sueño profundo y te despiertas peor.","A groggy person waking up confused with messy hair and spirals over the head.",no
+41,4,"Y el factor que más pesa: cómo dormiste anoche.","A bed at night with a moon, connected by an arrow to a tired person at lunch.",no
+42,4,"Con poco sueño, cualquier almuerzo te noquea.","A small sandwich wearing boxing gloves knocking out a tired person.",si
+43,4,"Una cosa más.","A raised index finger.",no
+44,4,"Si el sueño te vence siempre, comas lo que comas, consúltalo.","A person falling asleep in different places: at a desk, on a bus, at a table.",no
+45,4,"Puede haber algo detrás, como dormir mal sin saberlo.","A person sleeping at night with a broken zigzag sleep line above the bed.",no
+46,4,"La próxima vez que te pese el almuerzo, ya sabes por qué.","A person smiling knowingly at a plate.",no
+47,4,"Suscríbete: cada semana, una curiosidad de tu cuerpo.","A hand pointing at a big orange button with a bell beside it.",no
+48,4,"Este video es informativo y no reemplaza una consulta médica.","A small stethoscope icon next to a waving hand.",no

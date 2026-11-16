@@ -1,0 +1,41 @@
+n,duracion,narracion,prompt,animar
+1,7,"Para levantar una taza de café, miles de millones de proteínas diminutas tiran al mismo tiempo dentro de tu brazo.","An arm lifting a coffee cup with the biceps highlighted in teal.",si
+2,7,"Hoy vas a ver cómo se contrae el músculo esquelético, desde el músculo entero hasta la molécula.","A zoom sequence from a whole muscle down to tiny filaments, connected by zoom lines.",no
+3,7,"Un músculo está formado por fibras musculares: células largas, cilíndricas y con muchos núcleos.","A whole muscle cut to show bundles of long cylindrical fibers, each with several nuclei at the edge.",no
+4,7,"Dentro de cada fibra hay cientos de miofibrillas, y cada miofibrilla es una cadena de unidades repetidas.","A single muscle fiber cut open showing many parallel rod-shaped myofibrils inside.",no
+5,7,"Esa unidad es el sarcómero, que va de un disco Z al siguiente. Es la unidad funcional de la contracción.","A sarcomere between two vertical zigzag lines, the whole unit highlighted in teal.",no
+6,7,"El sarcómero tiene dos tipos de filamentos. Los delgados, de actina, están anclados a los discos Z.","A sarcomere with thin filaments attached to the two side lines, thin filaments highlighted in teal.",no
+7,7,"Los gruesos, de miosina, ocupan el centro. Cada uno tiene cientos de cabezas que apuntan hacia la actina.","A sarcomere with thick filaments in the center showing many small heads sticking out toward the thin filaments.",no
+8,7,"Esa disposición explica las estrías: la banda A, oscura, donde hay miosina, y la banda I, clara, donde solo hay actina.","A striated muscle pattern with alternating dark and light bands aligned above a sarcomere diagram.",no
+9,7,"Al contraerse, los filamentos no se acortan. Se deslizan unos sobre otros.","Two sarcomere diagrams one above the other: relaxed and contracted, filaments the same length but more overlapped.",si
+10,7,"La actina se desplaza hacia el centro, los discos Z se acercan y el sarcómero se acorta.","A sarcomere with arrows showing the thin filaments moving toward the center and the side lines approaching.",no
+11,7,"Es la teoría del filamento deslizante. La banda I se achica, y la banda A no cambia de largo.","Relaxed and contracted sarcomeres with the light band visibly narrower and the dark band unchanged.",no
+12,7,"¿Quién hace la fuerza? Las cabezas de miosina. Se unen a la actina y forman los puentes cruzados.","Close-up of a myosin head attached to an actin filament, the attachment point highlighted in teal.",no
+13,7,"Pero en reposo no pueden unirse, porque los sitios activos de la actina están tapados.","Actin filament with its binding sites covered by a long strand, a myosin head unable to attach.",no
+14,7,"Los tapa la tropomiosina, una proteína alargada que recorre el filamento delgado.","A thin filament made of two twisted chains of beads with a long ribbon lying along it covering spots.",no
+15,7,"Y a la tropomiosina la sostiene en su lugar el complejo de troponina.","A thin filament with a ribbon and small clusters of three subunits attached to the ribbon at intervals.",no
+16,7,"La llave que destraba todo es el calcio.","A calcium ion drawn like a key approaching a small protein cluster on a thin filament.",no
+17,7,"Cuando llega el potencial de acción, el retículo sarcoplásmico libera calcio al interior de la fibra.","A network of tubes around myofibrils releasing many calcium ions into the cell interior.",si
+18,7,"El calcio se une a la troponina C. La troponina cambia de forma y arrastra a la tropomiosina.","Calcium ions bound to a small protein cluster, which shifts and pulls a ribbon aside on the thin filament.",no
+19,7,"Los sitios activos quedan libres, y las cabezas de miosina pueden unirse a la actina.","Thin filament with uncovered binding sites and a myosin head attaching to one of them.",no
+20,7,"Ahora empieza el ciclo de los puentes cruzados, que tiene cuatro pasos.","A circular diagram with four positions of a myosin head around a cycle arrow.",no
+21,7,"Uno. La cabeza de miosina, cargada de energía por haber partido una molécula de ATP, se une a la actina.","A myosin head in a cocked high-energy position attaching to an actin filament.",no
+22,7,"Dos. La cabeza se inclina y arrastra al filamento de actina hacia el centro. Es el golpe de fuerza.","A myosin head bending and pulling the actin filament sideways, with a strong motion arrow.",si
+23,7,"Tres. Una nueva molécula de ATP se une a la cabeza, y la cabeza se suelta de la actina.","An ATP molecule binding to a myosin head while the head detaches from the actin filament.",no
+24,7,"Cuatro. El ATP se hidroliza, la cabeza se vuelve a cargar y queda lista para unirse más adelante.","A myosin head returning to its cocked position with a small energy burst symbol.",no
+25,7,"Cada cabeza repite el ciclo muchas veces por segundo, como remeros que no reman todos a la vez.","A row of rowers on a long boat rowing out of sync, next to a thick filament with many heads.",no
+26,7,"Mientras haya calcio y ATP, el ciclo continúa y el músculo sigue generando fuerza.","A sarcomere contracting with calcium ions and ATP symbols around it.",no
+27,7,"¿De dónde sale tanto ATP? Primero de la fosfocreatina, después de la glucólisis y por último del metabolismo oxidativo.","Three energy sources drawn as three tanks of increasing size feeding a muscle fiber.",no
+28,7,"Para relajarse, el músculo tiene que retirar el calcio.","Calcium ions around a thin filament with an arrow showing them leaving.",no
+29,7,"Una bomba de la membrana del retículo sarcoplásmico lo vuelve a guardar. Esa bomba también gasta ATP.","A pump in the membrane of a tube network moving calcium ions back inside, with an energy symbol.",no
+30,7,"Sin calcio, la tropomiosina vuelve a tapar los sitios activos y los filamentos se deslizan de vuelta.","A ribbon sliding back over the binding sites of a thin filament, a myosin head released.",no
+31,7,"Fíjate en esto: el ATP hace falta para contraer, pero también para soltar y para relajar.","A myosin head with two ATP symbols: one at the pulling step and one at the release step.",no
+32,7,"Eso explica la rigidez cadavérica. Sin ATP, las cabezas de miosina quedan pegadas a la actina.","Myosin heads all locked onto an actin filament with a padlock symbol.",no
+33,7,"El músculo queda rígido durante horas, hasta que las proteínas empiezan a degradarse.","A stiff straight arm next to a clock showing several hours.",no
+34,7,"La fuerza depende de la longitud del sarcómero. Hay un largo óptimo, con la máxima superposición útil.","A curve shaped like a hill on a graph, with the top of the hill highlighted in teal and a sarcomere below it.",no
+35,7,"Si el sarcómero está demasiado estirado, pocas cabezas alcanzan la actina y la fuerza cae.","An overstretched sarcomere with thin and thick filaments barely overlapping.",no
+36,7,"Si está demasiado acortado, los filamentos se estorban entre sí, y la fuerza también cae.","An overly shortened sarcomere with thin filaments overlapping each other in the center.",no
+37,7,"Resumen en tres pasos. Uno: el calcio se une a la troponina y destapa la actina.","Calcium ions binding to a protein cluster and a ribbon moving aside on a thin filament, highlighted in teal.",no
+38,7,"Dos: la miosina se une, tira y se suelta, gastando ATP en cada ciclo.","A myosin head shown in three overlapping positions: attached, bent, released.",no
+39,7,"Tres: al retirarse el calcio, el músculo se relaja.","A relaxed sarcomere with calcium ions stored back inside a tube network.",no
+40,7,"En el próximo video: la placa neuromuscular. Este contenido es educativo y no reemplaza la consulta médica.","A nerve ending touching the surface of a muscle fiber, the contact area highlighted in teal.",no

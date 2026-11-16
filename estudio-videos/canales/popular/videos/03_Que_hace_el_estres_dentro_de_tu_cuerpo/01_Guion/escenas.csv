@@ -1,0 +1,49 @@
+n,duracion,narracion,prompt,animar
+1,4,"Tu cuerpo no distingue entre un león y un correo de tu jefe.","Split image: left a lion roaring, right a phone screen with an envelope icon, a frightened person in the middle.",si
+2,4,"Para él, las dos cosas son una amenaza.","A person with the same scared face looking at a tiny envelope.",no
+3,4,"Y responde igual: con una reacción de hace miles de años.","A cave person and a modern office worker standing in the same alarmed pose.",no
+4,4,"Esto es lo que pasa adentro tuyo, segundo a segundo.","A stopwatch starting, with an outline of a human body behind it.",no
+5,4,"Segundo cero. Tu cerebro detecta el peligro.","A brain with an eye icon spotting a warning triangle.",no
+6,4,"La amígdala, tu alarma interna, se enciende.","A small almond-shaped part of a brain glowing orange like a siren.",si
+7,4,"Lo hace antes de que llegues a pensarlo.","A brain where the alarm part fires while the thinking part still has a loading circle.",no
+8,4,"Avisa al hipotálamo, el centro de mando.","A small control tower at the base of a brain receiving a signal.",no
+9,4,"Y el hipotálamo activa el sistema nervioso simpático.","Lines spreading from the base of the brain down the spine to the whole body.",no
+10,4,"En un segundo, tus glándulas suprarrenales liberan adrenalina.","Two small glands sitting on top of kidneys releasing orange drops.",si
+11,4,"Tu corazón late más rápido y más fuerte.","A heart beating hard with motion lines.",no
+12,4,"Sube la presión. La sangre va a los músculos.","Arrows of blood flow going into the arm and leg muscles of a body outline.",no
+13,4,"Respiras más rápido, para tener más oxígeno.","Lungs expanding with fast air arrows.",no
+14,4,"Tus pupilas se dilatan, para ver mejor.","A close-up eye with a very large pupil.",no
+15,4,"Tu hígado libera azúcar: combustible inmediato.","A liver releasing small sugar cubes into a blood vessel.",no
+16,4,"Y lo que no es urgente, se apaga.","A row of switches being turned off by a hand.",no
+17,4,"La digestión se frena. Por eso el nudo en el estómago.","A stomach tied in a knot.",no
+18,4,"Todo esto es perfecto para correr o pelear.","A person sprinting away at full speed with a dust cloud.",no
+19,4,"Si la amenaza sigue, entra la segunda ola.","A second, bigger wave rising behind a first small wave.",no
+20,4,"El hipotálamo le avisa a la hipófisis, y la hipófisis a las suprarrenales.","Three stations connected by arrows: base of the brain, a small gland below it, and glands on the kidneys.",no
+21,4,"Minutos después, liberan cortisol.","Glands on top of kidneys releasing a slower, thicker stream of orange drops, a clock showing minutes.",no
+22,4,"El cortisol mantiene el cuerpo en guardia.","A body outline standing like a guard with a shield.",no
+23,4,"Más azúcar disponible. Más alerta.","Sugar cubes and a wide open eye with an up arrow.",no
+24,4,"Hasta acá, todo bien. El estrés corto te ayuda.","A person giving a confident presentation with an orange check mark.",no
+25,4,"Te enfoca, te da energía, te hace rendir.","A person aiming at a target and hitting the center.",no
+26,4,"El problema empieza cuando la alarma no se apaga.","A siren that keeps flashing while a person tries to press a broken off button.",si
+27,4,"Deudas, trabajo, pantallas. El león nunca se va.","A person surrounded by bills, a laptop and a phone, a lion shadow on the wall behind.",no
+28,4,"Y el cortisol alto, semana tras semana, pasa factura.","A long receipt unrolling across the floor from a small gland.",no
+29,4,"Duermes peor.","A person lying awake in bed with wide open eyes at night.",no
+30,4,"Te da más hambre, sobre todo de dulces y grasas.","A person reaching for sweets and fried food with a glowing craving bubble.",no
+31,4,"Tu cuerpo guarda más grasa en el abdomen.","A body outline with the belly area highlighted in orange.",no
+32,4,"Tus defensas bajan, y te enfermas más seguido.","A cracked shield character with a thermometer.",no
+33,4,"Te cuesta concentrarte y recordar.","A person with scattered puzzle pieces floating out of the head.",no
+34,4,"Y los músculos tensos traen dolor de cuello y de cabeza.","A person rubbing a stiff neck with orange tension lines on the shoulders.",no
+35,4,"La buena noticia: tu cuerpo también tiene un freno.","A foot pressing a brake pedal with a calm wave line.",no
+36,4,"Es el sistema parasimpático. Y puedes activarlo tú.","A hand turning a dial from a lightning bolt icon to a leaf icon.",no
+37,4,"Uno. Respira lento, y exhala más largo de lo que inhalas.","A person breathing out slowly with a long, soft air stream.",si
+38,4,"Cuatro segundos adentro, seis afuera. Dos minutos.","A short arrow going in and a longer arrow going out, next to a small timer.",no
+39,4,"Dos. Muévete. El ejercicio gasta la adrenalina que te sobra.","A person jogging with small orange drops evaporating behind.",no
+40,4,"Tres. Duerme. El sueño baja el cortisol a su nivel normal.","A person sleeping peacefully while a curve above the bed goes down.",no
+41,4,"Cuatro. Habla con alguien. El contacto social calma la alarma.","Two people talking on a bench, a small siren turning off above them.",no
+42,4,"Cinco. Sal al aire libre, aunque sean veinte minutos.","A person walking among trees with a sun and a small clock.",no
+43,4,"Y seis. Baja las notificaciones. Menos leones falsos.","A phone with notification bubbles being silenced by a finger.",no
+44,4,"No se trata de eliminar el estrés.","A person calmly holding a small lion cub.",no
+45,4,"Se trata de que la alarma suene, y después se apague.","A siren turning off with a hand on the switch, a relaxed face beside it.",no
+46,4,"Si sientes que no puedes apagarla solo, pide ayuda profesional.","A person sitting across from a professional with a notepad in a calm room.",no
+47,4,"Suscríbete: cada semana, una curiosidad de tu cuerpo.","A hand pointing at a big orange button with a bell beside it.",no
+48,4,"Este video es informativo y no reemplaza una consulta médica.","A small stethoscope icon next to a waving hand.",no

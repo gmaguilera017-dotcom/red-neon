@@ -1,0 +1,15 @@
+{
+  "nombre": "Cuerpo Curioso",
+  "idioma": "es",
+  "ancho": 1920,
+  "alto": 1080,
+  "fps": 30,
+  "segundos_por_escena": 4,
+  "color_fondo": "white",
+  "color_texto": "black",
+  "fuente": "DejaVu Sans",
+  "fuente_archivo": "",
+  "tamano_subtitulos": 22,
+  "volumen_musica": 0.12,
+  "estilo_prompt": "Minimalist hand-drawn cartoon, thick black outlines on a plain white background, flat shading, a single accent color orange (#FF6B00), no text or letters in the image, 16:9. Any person is drawn as a generic anonymous stick figure with a plain round head, never a recurring character or mascot."
+}

@@ -1,0 +1,15 @@
+{
+  "nombre": "NeoMed Fisiología",
+  "idioma": "es",
+  "ancho": 1920,
+  "alto": 1080,
+  "fps": 30,
+  "segundos_por_escena": 7,
+  "color_fondo": "white",
+  "color_texto": "black",
+  "fuente": "DejaVu Sans",
+  "fuente_archivo": "",
+  "tamano_subtitulos": 22,
+  "volumen_musica": 0.12,
+  "estilo_prompt": "Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9."
+}

@@ -1,0 +1,40 @@
+Tu cerebro tiene unos ochenta y seis mil millones de neuronas, y ninguna de ellas toca realmente a la otra.
+Entre una y otra queda un espacio mínimo. En ese espacio ocurre la sinapsis, y hoy vas a ver cómo funciona.
+Hay dos tipos de sinapsis. En las eléctricas, las células se conectan por uniones en hendidura y la corriente pasa directo.
+Son rápidas, pero poco frecuentes en nuestro sistema nervioso. Casi todas nuestras sinapsis son químicas.
+Una sinapsis química tiene tres partes: la terminal presináptica, la hendidura sináptica y la membrana postsináptica.
+En la terminal presináptica hay vesículas, pequeñas bolsas llenas de neurotransmisor, y muchas mitocondrias que aportan energía.
+Todo empieza cuando el potencial de acción llega a la terminal y despolariza su membrana.
+Esa despolarización abre canales de calcio activados por voltaje, que abundan en la membrana presináptica.
+El calcio entra a la terminal, porque afuera está mucho más concentrado que adentro.
+El calcio es la señal clave: hace que las vesículas se fusionen con la membrana presináptica.
+Las vesículas se abren y liberan el neurotransmisor a la hendidura. Este proceso se llama exocitosis.
+Cuanto más calcio entra, más vesículas se liberan. Sin calcio, no hay transmisión.
+El neurotransmisor cruza la hendidura por difusión. Son apenas veinte a treinta nanómetros.
+Del otro lado lo esperan los receptores de la membrana postsináptica, cada uno específico para su neurotransmisor.
+Hay dos grandes familias de receptores. Los ionotrópicos son canales iónicos que se abren cuando se une el neurotransmisor.
+Actúan en milisegundos. Son la vía rápida de la comunicación neuronal.
+Los metabotrópicos no son canales. Activan una proteína G, que pone en marcha segundos mensajeros dentro de la célula.
+Son más lentos, pero su efecto dura más y puede cambiar el funcionamiento de la neurona por mucho tiempo.
+¿Y qué produce el neurotransmisor? Depende del receptor. Si entra sodio, la membrana postsináptica se despolariza un poco.
+Eso es un potencial postsináptico excitador: acerca a la neurona al umbral.
+Si en cambio entra cloro o sale potasio, la membrana se hiperpolariza.
+Eso es un potencial postsináptico inhibidor: aleja a la neurona del umbral.
+Un solo potencial excitador no alcanza para disparar la neurona. Hace falta sumar muchos.
+En la sumación espacial, muchas sinapsis distintas se activan al mismo tiempo sobre la misma neurona.
+En la sumación temporal, una misma sinapsis descarga varias veces seguidas, muy rápido.
+La neurona suma excitaciones y resta inhibiciones. Si el resultado llega al umbral, dispara.
+El potencial de acción nace en el segmento inicial del axón, la zona con el umbral más bajo.
+La señal tiene que apagarse rápido. Para eso, el neurotransmisor se elimina de la hendidura por tres vías.
+La primera es la recaptación: la terminal presináptica lo vuelve a tomar para reutilizarlo.
+La segunda es la degradación por enzimas, como la acetilcolinesterasa con la acetilcolina.
+La tercera es la difusión hacia el líquido que rodea la sinapsis.
+La sinapsis química conduce en un solo sentido: siempre de la neurona presináptica a la postsináptica.
+Todo este proceso lleva tiempo: es el retraso sináptico, de alrededor de medio milisegundo.
+Y si una sinapsis se estimula sin parar, se agota el neurotransmisor. Eso es la fatiga sináptica.
+Llevemos esto a la clínica. Muchos antidepresivos bloquean la recaptación de serotonina.
+Así, el neurotransmisor permanece más tiempo en la hendidura y su efecto se prolonga.
+La toxina botulínica hace lo contrario: impide que las vesículas liberen acetilcolina. El músculo queda paralizado.
+Resumen en tres pasos. Uno: el potencial de acción abre canales de calcio y se libera el neurotransmisor.
+Dos: el neurotransmisor se une a su receptor y excita o inhibe. Tres: se elimina, y la sinapsis queda lista otra vez.
+En el próximo video: cómo se contrae un músculo. Este contenido es educativo y no reemplaza la consulta médica.

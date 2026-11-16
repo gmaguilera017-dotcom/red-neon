@@ -1,0 +1,42 @@
+name: Montar video
+
+# Monta el video largo y los reels de un proyecto del estudio, sin instalar nada en tu
+# computadora. Se ejecuta a mano: pestaña Actions → "Montar video" → Run workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      carpeta:
+        description: 'Carpeta del video (ej.: canales/medico/videos/01_Potencial_de_accion_paso_a_paso)'
+        required: true
+      subtitulos:
+        description: 'Quemar subtítulos en el video'
+        type: boolean
+        default: false
+
+jobs:
+  montar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu
+
+      - name: Montar video largo
+        working-directory: estudio-videos
+        env:
+          CARPETA: ${{ inputs.carpeta }}
+        run: python3 herramientas/estudio.py montar "$CARPETA" ${{ inputs.subtitulos && '--subs' || '' }}
+
+      - name: Cortar reels
+        working-directory: estudio-videos
+        env:
+          CARPETA: ${{ inputs.carpeta }}
+        run: python3 herramientas/estudio.py reels "$CARPETA"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: video-montado
+          path: estudio-videos/${{ inputs.carpeta }}/06_Final/
+          retention-days: 14

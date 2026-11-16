@@ -1,0 +1,137 @@
+[escena_001] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A hand moving one finger, with a teal electrical pulse traveling along a nerve from the arm to the finger.
+
+[escena_002]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A simple whiteboard showing a single spike-shaped curve drawn in teal.
+
+[escena_003]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Cross-section of a cell membrane as a phospholipid bilayer separating an outer and an inner compartment.
+
+[escena_004]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Cell membrane with many small teal spheres outside and many dark spheres plus large negatively charged proteins inside.
+
+[escena_005]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A pump protein embedded in the membrane, with a small energy burst symbol next to it on the inner side.
+
+[escena_006] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Membrane pump moving three teal spheres outward and two dark spheres inward, shown with arrows.
+
+[escena_007]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Membrane with an always-open channel and dark spheres leaking from inside to outside along an arrow.
+
+[escena_008]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Cell membrane with minus signs drawn as small dashes lining the inside and plus-shaped crosses lining the outside.
+
+[escena_009]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A voltmeter with one electrode inside a nerve fiber and one outside, needle deflected to the negative side.
+
+[escena_010]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A neuron drawn next to a fully charged battery, both highlighted in teal.
+
+[escena_011]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two different closed channel proteins side by side in a membrane, one highlighted in teal.
+
+[escena_012]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Close-up of a membrane channel with two gates: a closed gate on the outer side and an open ball-and-chain gate on the inner side.
+
+[escena_013]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Closed channel in a membrane with teal spheres crowding outside, unable to pass.
+
+[escena_014]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A small stimulus arrow touching a neuron membrane, with a curve starting to rise slightly from a flat baseline.
+
+[escena_015]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A curve graph with a small bump that rises a little and returns to baseline, below a dashed horizontal threshold line.
+
+[escena_016]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A curve graph where the line reaches a dashed threshold line and a teal spark appears at that point.
+
+[escena_017] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Open membrane channel with a rush of teal spheres flowing from outside to inside the cell.
+
+[escena_018]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Several neighboring channels in a membrane opening one after another as teal spheres flow in.
+
+[escena_019]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A circular loop arrow diagram connecting an open channel and a rising curve, highlighted in teal.
+
+[escena_020] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A curve graph with a steep upstroke crossing a horizontal zero line, upstroke highlighted in teal.
+
+[escena_021]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Peak of a spike curve above a zero line, with the tip highlighted in teal.
+
+[escena_022]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Membrane channel with the outer gate open but the inner ball-and-chain gate plugging the pore.
+
+[escena_023]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Channel pore blocked by an inner ball gate, teal spheres stopped at the entrance.
+
+[escena_024]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A second type of channel in the membrane opening slowly, with a small clock icon next to it.
+
+[escena_025] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Open channel with dark spheres flowing from inside the cell to outside.
+
+[escena_026]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A spike curve graph with the descending limb highlighted in teal.
+
+[escena_027]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A spike curve graph that dips below the baseline after the spike, with the dip highlighted in teal.
+
+[escena_028]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A curve graph returning from a small dip back to a flat baseline.
+
+[escena_029]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A huge crowd of spheres on both sides of a membrane with only a few crossing it.
+
+[escena_030]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Membrane pump working calmly in the background while a spike curve passes above it.
+
+[escena_031]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A spike curve graph with a shaded teal band covering the upstroke and most of the downstroke.
+
+[escena_032]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A spike curve graph with a second lighter shaded band covering the after-dip, and a larger stimulus arrow below.
+
+[escena_033]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A long axon with a pulse moving in one direction and a one-way arrow above it.
+
+[escena_034]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two graphs side by side: one with a tiny failed bump, one with a full spike of fixed height.
+
+[escena_035]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two rows of spikes of equal height: the top row with few spikes, the bottom row with many spikes close together.
+
+[escena_036] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Axon segment with a teal active region and small curved current arrows spreading to the neighboring segment.
+
+[escena_037]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A row of falling dominoes drawn along the length of an axon.
+
+[escena_038]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A thin bare axon with a slow pulse and a small snail drawn beside it.
+
+[escena_039]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An axon wrapped in myelin sheath segments with small exposed gaps between them, gaps highlighted in teal.
+
+[escena_040] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Myelinated axon with a teal pulse jumping in arcs from gap to gap.
+
+[escena_041]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A syringe next to a nerve, with a membrane channel blocked by a small plug.
+
+[escena_042]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A pain signal traveling along a nerve from a hand and stopping at a blocked point before reaching the brain.
+
+[escena_043]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Myelinated axon with damaged, patchy myelin segments and a pulse fading out midway.
+
+[escena_044]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A simple membrane at rest with dark spheres leaking out through a channel and a pump beside it.
+
+[escena_045]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A full spike curve with the rising limb and the falling limb in two different tones, teal on the rising limb.
+
+[escena_046]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two neurons with a small gap between them, the gap highlighted in teal.
