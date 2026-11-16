@@ -1,0 +1,49 @@
+n,duracion,narracion,prompt,animar
+1,4,"¿Qué pasa en tu cuerpo si no comes durante un día entero?","A person looking at an empty plate with a big clock behind.",no
+2,4,"No te apagas. Cambias de combustible.","A body outline with a fuel gauge switching from one tank to another.",si
+3,4,"Vamos hora por hora.","A clock with its hands starting to move, orange motion lines.",no
+4,4,"Pero antes, una advertencia.","A raised hand in a stop gesture.",no
+5,4,"Esto es para entender tu cuerpo, no una recomendación de ayuno.","A person reading a book about the body, with a crossed-out prescription pad beside it.",no
+6,4,"Hora cero. Terminas de comer.","A person putting down a fork next to an empty plate.",no
+7,4,"Durante las primeras cuatro horas, tu cuerpo digiere y absorbe.","A stomach and intestine working with small arrows going into a blood vessel.",no
+8,4,"La glucosa entra a la sangre, y el páncreas libera insulina.","A pancreas releasing small key-shaped drops into a blood vessel full of sugar cubes.",no
+9,4,"La insulina es la llave que deja entrar la glucosa a tus células.","A key opening a door on a cell, sugar cubes walking in.",si
+10,4,"Lo que sobra se guarda: en el hígado y en los músculos, como glucógeno.","A liver and a muscle each with a small storage box being filled with sugar cubes.",no
+11,4,"Y si todavía sobra, como grasa.","A fat cell character receiving a delivery box.",no
+12,4,"Hora cuatro a ocho. Ya no entra más comida.","An empty intestine and a clock in the afternoon.",no
+13,4,"La glucosa empieza a bajar, y la insulina también.","Two curves going down together.",no
+14,4,"Sube otra hormona: el glucagón.","A pancreas releasing a different drop, drawn in orange, with an up arrow.",no
+15,4,"El glucagón le ordena al hígado que libere su reserva.","A liver opening its storage box and sending sugar cubes back into the blood.",no
+16,4,"Tu glucosa se mantiene estable. Ni lo notas.","A flat steady line on a small screen with a calm face.",no
+17,4,"Lo que sí notas es el hambre.","A stomach character growling.",no
+18,4,"El estómago vacío libera grelina, la hormona del hambre.","A stomach releasing a small hungry monster character upward to the brain.",no
+19,4,"Pero el hambre no sube sin parar. Viene en olas.","A wave line rising and falling several times, in orange.",si
+20,4,"Aparece a tus horarios habituales de comida, y después baja sola.","A wave peaking at a clock showing lunch time and dropping afterwards.",no
+21,4,"Hora ocho a doce. La reserva del hígado se va gastando.","A liver storage box half empty.",no
+22,4,"Tu cuerpo empieza a usar más grasa.","Fat cell characters opening their doors and releasing small droplets.",no
+23,4,"Las células de grasa liberan ácidos grasos a la sangre.","Droplets traveling along a blood vessel toward muscles.",no
+24,4,"Tus músculos y tu corazón los queman sin problema.","A heart and a leg muscle with small flames inside using the droplets.",no
+25,4,"Es lo mismo que pasa cada noche mientras duermes.","A person sleeping peacefully with a small flame icon above the belly.",no
+26,4,"Hora doce a dieciocho. El glucógeno del hígado está casi agotado.","A nearly empty liver storage box with a low-level warning mark.",no
+27,4,"Pero tu cerebro necesita glucosa. ¿De dónde sale?","A worried brain holding an empty bowl.",no
+28,4,"El hígado la fabrica de cero, a partir de otras moléculas.","A liver drawn as a small factory producing sugar cubes from mixed pieces.",si
+29,4,"Y además empieza a producir cuerpos cetónicos.","A liver releasing small orange hexagon-shaped particles.",no
+30,4,"Son un combustible alternativo, hecho a partir de la grasa.","Fat droplets entering a liver and orange particles coming out.",no
+31,4,"Tu cerebro puede usarlos para cubrir parte de su consumo.","A brain receiving both sugar cubes and orange particles.",no
+32,4,"Hora dieciocho a veinticuatro. Ya funcionas sobre todo a grasa.","A fuel gauge pointing clearly to the fat tank, with a clock near the end of the day.",no
+33,4,"Los cuerpos cetónicos siguen subiendo.","A rising curve in orange.",no
+34,4,"Algunas personas sienten la mente más despejada.","A person with a clear, bright head and a small sun above it.",no
+35,4,"Otras, dolor de cabeza, frío o mal humor.","A person wrapped in a blanket rubbing their forehead with a grumpy face.",no
+36,4,"Las dos reacciones son normales.","Two different faces side by side with an equal sign between them.",no
+37,4,"¿Y la famosa autofagia, la limpieza celular?","A cell character with a tiny recycling bin and a question mark.",no
+38,4,"Existe. Pero casi todo lo que se sabe viene de animales.","A lab mouse next to a cell with a recycling symbol.",no
+39,4,"En humanos, todavía no está claro cuándo empieza ni cuánto aporta.","A person outline with a question mark over a small recycling symbol.",no
+40,4,"Lo que sí está claro es para quién no es.","A list with several crossed-out circles.",no
+41,4,"Diabetes con medicación, embarazo, trastornos alimentarios, niños y adolescentes.","Four small icons in a row: a syringe, a pregnant silhouette, a broken plate, a child.",no
+42,4,"En esos casos, ayunar puede ser peligroso.","A warning triangle next to an empty plate.",no
+43,4,"Y si tienes cualquier enfermedad, primero habla con tu médico.","A person talking with a doctor across a desk.",no
+44,4,"¿Y al volver a comer?","A plate with a moderate portion being placed on a table.",no
+45,4,"Nada de atracón. Una comida normal.","A giant pile of food crossed out next to a normal plate with a check mark.",no
+46,4,"Tu cuerpo lleva miles de años preparado para pasar horas sin comer.","An ancient hunter walking across a landscape with an empty bag.",no
+47,4,"Suscríbete: cada semana, una curiosidad de tu cuerpo.","A hand pointing at a big orange button with a bell beside it.",no
+48,4,"Este video es informativo y no reemplaza una consulta médica.","A small stethoscope icon next to a waving hand.",no

@@ -9,7 +9,7 @@ Empezá por acá. Está pensada para seguirla sin ayuda, en orden.
 | Ficha y reglas del canal | `canales/medico/canal.md` | `canales/popular/canal.md` |
 | Kit para crear el canal (textos listos) | `canales/medico/kit_canal.md` | `canales/popular/kit_canal.md` |
 | Perfil, banner y marca de agua | `canales/medico/marca/` | `canales/popular/marca/` |
-| Videos guionados (guion, escenas, prompts, reels) | 01 Potencial de acción · 02 Sinapsis · 03 Contracción muscular | 01 No dormir · 02 Sueño después de comer · 03 Estrés |
+| Videos guionados (guion, escenas, prompts, reels) | 01 Potencial de acción · 02 Sinapsis · 03 Contracción muscular · 04 Placa neuromuscular · 05 Ciclo cardíaco | 01 No dormir · 02 Sueño después de comer · 03 Estrés · 04 Memoria y estudio · 05 24 horas sin comer |
 | Plan de temas siguientes | 12 videos | 10 videos |
 | Prompt para guionar más videos con cualquier IA | `plantillas/prompt_listo_neomed.md` | `plantillas/prompt_listo_cuerpo_curioso.md` |
 

@@ -1,0 +1,40 @@
+Decides mover un dedo, y en milésimas de segundo el músculo obedece. ¿Cómo le llega la orden?
+El punto donde el nervio le habla al músculo se llama placa neuromuscular. Hoy la vamos a recorrer paso a paso.
+Cada fibra muscular esquelética recibe una sola terminación nerviosa, de una neurona motora que viene de la médula espinal.
+Una neurona motora y todas las fibras que inerva forman una unidad motora.
+La terminal nerviosa se apoya en una depresión de la fibra muscular, sin llegar a tocarla.
+Del lado del músculo, la membrana tiene muchos pliegues que aumentan la superficie disponible para los receptores.
+En la terminal hay miles de vesículas cargadas de un neurotransmisor: la acetilcolina.
+Cuando llega el potencial de acción, se abren canales de calcio activados por voltaje, y el calcio entra a la terminal.
+El calcio hace que las vesículas se fusionen con la membrana y liberen la acetilcolina a la hendidura.
+Con cada impulso se libera el contenido de más de cien vesículas.
+La acetilcolina cruza la hendidura y se une a su receptor: el receptor nicotínico.
+Ese receptor es un canal iónico. Se abre cuando se le unen dos moléculas de acetilcolina.
+Por el canal abierto entra, sobre todo, sodio. La membrana muscular se despolariza en esa zona.
+Ese cambio local se llama potencial de placa terminal.
+Es tan grande que supera con holgura el umbral. A ese margen se lo llama factor de seguridad.
+Por eso, en condiciones normales, cada impulso del nervio produce un potencial de acción en el músculo.
+La señal tiene que terminar enseguida. De eso se ocupa una enzima de la hendidura: la acetilcolinesterasa.
+La enzima parte la acetilcolina en acetato y colina, y la terminal recapta la colina para fabricar más.
+Ahora el potencial de acción recorre toda la membrana de la fibra muscular, en las dos direcciones.
+Pero la fibra es gruesa, y las miofibrillas del centro están lejos de la superficie.
+Para llegar hasta ellas, la membrana forma los túbulos T, que penetran hacia el interior de la fibra.
+A cada lado del túbulo T hay una cisterna del retículo sarcoplásmico, llena de calcio. El conjunto se llama tríada.
+En la membrana del túbulo T hay un sensor de voltaje: el receptor de dihidropiridina.
+Ese sensor está unido a un canal del retículo sarcoplásmico: el receptor de rianodina.
+Cuando llega el potencial de acción, el sensor cambia de forma y abre ese canal.
+El calcio sale del retículo hacia el citoplasma, y su concentración sube en milésimas de segundo.
+Ese calcio se une a la troponina, y empieza la contracción que vimos en el video anterior.
+A todo este recorrido, de la señal eléctrica a la fuerza mecánica, se lo llama acoplamiento excitación-contracción.
+Para relajar, una bomba del retículo sarcoplásmico vuelve a guardar el calcio, gastando ATP.
+Llevemos esto a la clínica. En la miastenia gravis, el sistema inmune fabrica anticuerpos contra los receptores de acetilcolina.
+Con menos receptores disponibles, el potencial de placa es más chico, y el músculo se fatiga con facilidad.
+Se trata con fármacos que inhiben la acetilcolinesterasa, como la neostigmina.
+La acetilcolina dura más tiempo en la hendidura, y aprovecha mejor los receptores que quedan.
+El curare, en cambio, ocupa el receptor sin abrirlo. El resultado es parálisis.
+Y la toxina botulínica impide directamente que las vesículas liberen acetilcolina.
+Resumen en tres pasos. Uno: el nervio libera acetilcolina, que abre los receptores nicotínicos.
+Dos: el potencial de acción viaja por la membrana y entra por los túbulos T.
+Tres: el retículo sarcoplásmico libera calcio, y el músculo se contrae.
+En el próximo video dejamos el músculo esquelético y pasamos al corazón: el ciclo cardíaco.
+Este contenido es educativo y no reemplaza la consulta médica.
