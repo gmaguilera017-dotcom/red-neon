@@ -1,5 +1,7 @@
 # Estudio de montaje de videos
 
+> **Empezá por [`GUIA_COMPLETA.md`](GUIA_COMPLETA.md):** el paso a paso para crear los canales, producir, montar y publicar.
+
 Dos canales, un mismo flujo: **Cuerpo Curioso** (`canales/popular`, curiosidades del cuerpo y
 la mente) y **NeoMed Fisiología** (`canales/medico`, fisiología humana para estudiantes).
 Cada uno ya tiene su primer video guionado en `canales/<canal>/videos/01_…`. Basado en el flujo del video analizado (ver al final).

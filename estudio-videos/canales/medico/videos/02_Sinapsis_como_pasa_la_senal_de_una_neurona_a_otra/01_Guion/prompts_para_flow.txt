@@ -1,0 +1,119 @@
+[escena_001]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two neurons facing each other with a tiny visible gap between them, gap highlighted in teal.
+
+[escena_002] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Close-up of the gap between an axon terminal and a dendrite, a magnifying glass over the gap.
+
+[escena_003]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two cell membranes joined by small tunnel-like channels with ions passing straight through.
+
+[escena_004]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Split image: left a small simple direct junction, right a large detailed chemical synapse highlighted in teal.
+
+[escena_005]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Diagram of a chemical synapse showing three distinct parts: a bulb-shaped terminal above, a narrow gap, and a membrane below.
+
+[escena_006]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Inside of an axon terminal with many small round vesicles filled with dots and several mitochondria.
+
+[escena_007] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An electrical pulse traveling down an axon and reaching the bulb-shaped terminal, highlighted in teal.
+
+[escena_008]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Presynaptic membrane with open channels, calcium ions waiting outside the terminal.
+
+[escena_009] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Calcium ions flowing through open channels into the axon terminal, arrows pointing inward.
+
+[escena_010]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Vesicles inside a terminal moving toward the membrane and docking on it, calcium ions nearby.
+
+[escena_011] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A vesicle fused with the presynaptic membrane, opening and releasing small dots into the gap.
+
+[escena_012]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two terminals side by side: one with many calcium ions and many vesicles releasing, one with no calcium and no release.
+
+[escena_013]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Small neurotransmitter dots drifting across a narrow gap from the upper membrane to the lower membrane.
+
+[escena_014]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Postsynaptic membrane with receptor proteins shaped like cups, neurotransmitter dots fitting into them like keys in locks.
+
+[escena_015]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A receptor that is itself a channel, opening when a dot binds, ions passing through it.
+
+[escena_016]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An open ligand-gated channel with ions rushing through and a small stopwatch showing a very short time.
+
+[escena_017]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A receptor coupled to a protein on the inner side of the membrane, triggering a cascade of small molecules inside the cell.
+
+[escena_018]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A cascade of signals spreading inside a neuron toward its nucleus, with a clock showing a long time.
+
+[escena_019]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Sodium ions entering through an open receptor channel in the postsynaptic membrane, a small upward bump on a graph.
+
+[escena_020]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A graph with a small upward deflection approaching a dashed threshold line, deflection in teal.
+
+[escena_021]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Chloride ions entering and potassium ions leaving through channels in the postsynaptic membrane.
+
+[escena_022]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A graph with a small downward deflection moving away from a dashed threshold line.
+
+[escena_023]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A single small bump on a graph far below a threshold line, next to a neuron with one active synapse.
+
+[escena_024] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A neuron receiving signals from many terminals at once, all highlighted in teal.
+
+[escena_025]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A graph with several small bumps stacking one on top of another like steps, reaching a threshold line.
+
+[escena_026]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A balance scale inside a neuron with plus symbols on one side and minus symbols on the other.
+
+[escena_027]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A neuron with the first segment of its axon, next to the cell body, highlighted in teal with a spark.
+
+[escena_028]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A synaptic gap with neurotransmitter dots and three arrows leaving it in different directions.
+
+[escena_029]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Transporter proteins in the presynaptic membrane pulling neurotransmitter dots back into the terminal.
+
+[escena_030]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An enzyme shaped like scissors in the synaptic gap cutting a neurotransmitter molecule in two pieces.
+
+[escena_031]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Neurotransmitter dots drifting sideways out of the synaptic gap into the surrounding fluid.
+
+[escena_032]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two neurons with a one-way arrow from the first to the second across the synapse.
+
+[escena_033]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A synapse with a small stopwatch between the arriving pulse above and the response below.
+
+[escena_034]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A terminal with almost no vesicles left, drawn tired and nearly empty.
+
+[escena_035]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A reuptake transporter in the presynaptic membrane blocked by a small plug, neurotransmitter staying in the gap.
+
+[escena_036]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A synaptic gap crowded with neurotransmitter dots and many occupied receptors.
+
+[escena_037]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Vesicles stuck inside a terminal, unable to fuse with the membrane, with a blocked symbol on them.
+
+[escena_038]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A terminal with calcium entering and a vesicle releasing its content, highlighted in teal.
+
+[escena_039]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Three small panels: a dot binding a receptor, a small bump on a graph, and dots being cleared away.
+
+[escena_040]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A muscle fiber with its internal striped structure, highlighted in teal.

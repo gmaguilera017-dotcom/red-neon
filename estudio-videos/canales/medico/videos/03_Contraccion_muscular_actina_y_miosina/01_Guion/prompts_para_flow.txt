@@ -1,0 +1,119 @@
+[escena_001] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An arm lifting a coffee cup with the biceps highlighted in teal.
+
+[escena_002]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A zoom sequence from a whole muscle down to tiny filaments, connected by zoom lines.
+
+[escena_003]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A whole muscle cut to show bundles of long cylindrical fibers, each with several nuclei at the edge.
+
+[escena_004]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A single muscle fiber cut open showing many parallel rod-shaped myofibrils inside.
+
+[escena_005]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A sarcomere between two vertical zigzag lines, the whole unit highlighted in teal.
+
+[escena_006]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A sarcomere with thin filaments attached to the two side lines, thin filaments highlighted in teal.
+
+[escena_007]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A sarcomere with thick filaments in the center showing many small heads sticking out toward the thin filaments.
+
+[escena_008]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A striated muscle pattern with alternating dark and light bands aligned above a sarcomere diagram.
+
+[escena_009] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two sarcomere diagrams one above the other: relaxed and contracted, filaments the same length but more overlapped.
+
+[escena_010]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A sarcomere with arrows showing the thin filaments moving toward the center and the side lines approaching.
+
+[escena_011]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Relaxed and contracted sarcomeres with the light band visibly narrower and the dark band unchanged.
+
+[escena_012]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Close-up of a myosin head attached to an actin filament, the attachment point highlighted in teal.
+
+[escena_013]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Actin filament with its binding sites covered by a long strand, a myosin head unable to attach.
+
+[escena_014]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A thin filament made of two twisted chains of beads with a long ribbon lying along it covering spots.
+
+[escena_015]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A thin filament with a ribbon and small clusters of three subunits attached to the ribbon at intervals.
+
+[escena_016]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A calcium ion drawn like a key approaching a small protein cluster on a thin filament.
+
+[escena_017] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A network of tubes around myofibrils releasing many calcium ions into the cell interior.
+
+[escena_018]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Calcium ions bound to a small protein cluster, which shifts and pulls a ribbon aside on the thin filament.
+
+[escena_019]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Thin filament with uncovered binding sites and a myosin head attaching to one of them.
+
+[escena_020]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A circular diagram with four positions of a myosin head around a cycle arrow.
+
+[escena_021]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A myosin head in a cocked high-energy position attaching to an actin filament.
+
+[escena_022] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A myosin head bending and pulling the actin filament sideways, with a strong motion arrow.
+
+[escena_023]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An ATP molecule binding to a myosin head while the head detaches from the actin filament.
+
+[escena_024]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A myosin head returning to its cocked position with a small energy burst symbol.
+
+[escena_025]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A row of rowers on a long boat rowing out of sync, next to a thick filament with many heads.
+
+[escena_026]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A sarcomere contracting with calcium ions and ATP symbols around it.
+
+[escena_027]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Three energy sources drawn as three tanks of increasing size feeding a muscle fiber.
+
+[escena_028]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Calcium ions around a thin filament with an arrow showing them leaving.
+
+[escena_029]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A pump in the membrane of a tube network moving calcium ions back inside, with an energy symbol.
+
+[escena_030]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A ribbon sliding back over the binding sites of a thin filament, a myosin head released.
+
+[escena_031]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A myosin head with two ATP symbols: one at the pulling step and one at the release step.
+
+[escena_032]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Myosin heads all locked onto an actin filament with a padlock symbol.
+
+[escena_033]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A stiff straight arm next to a clock showing several hours.
+
+[escena_034]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A curve shaped like a hill on a graph, with the top of the hill highlighted in teal and a sarcomere below it.
+
+[escena_035]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An overstretched sarcomere with thin and thick filaments barely overlapping.
+
+[escena_036]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An overly shortened sarcomere with thin filaments overlapping each other in the center.
+
+[escena_037]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Calcium ions binding to a protein cluster and a ribbon moving aside on a thin filament, highlighted in teal.
+
+[escena_038]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A myosin head shown in three overlapping positions: attached, bent, released.
+
+[escena_039]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A relaxed sarcomere with calcium ions stored back inside a tube network.
+
+[escena_040]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A nerve ending touching the surface of a muscle fiber, the contact area highlighted in teal.
