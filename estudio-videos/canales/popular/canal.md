@@ -42,8 +42,8 @@
 | 03 | ¿Qué hace el estrés dentro de tu cuerpo? (**guionado**) |
 | 04 | ¿Por qué se te olvida todo lo que estudias? (**guionado**) |
 | 05 | 24 horas sin comer: qué pasa hora por hora (**guionado**) |
-| 06 | ¿Por qué el café a algunos no les hace nada? |
-| 07 | ¿Qué pasa en tu cuerpo cuando te enamoras? |
-| 08 | ¿Por qué te duele la cabeza? |
+| 06 | ¿Por qué el café a algunos no les hace nada? (**guionado**) |
+| 07 | ¿Qué pasa en tu cuerpo cuando te enamoras? (**guionado**) |
+| 08 | ¿Por qué te duele la cabeza? (**guionado**) |
 | 09 | 30 días caminando: qué cambia en tu cuerpo |
 | 10 | ¿Por qué bostezas (y por qué se contagia)? |

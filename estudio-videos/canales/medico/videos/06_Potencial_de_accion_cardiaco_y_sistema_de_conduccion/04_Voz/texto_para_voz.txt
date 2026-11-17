@@ -1,0 +1,36 @@
+Si sacas un corazón del cuerpo y le das oxígeno y nutrientes, sigue latiendo solo. Nadie le da la orden.
+El corazón genera su propio impulso eléctrico. Hoy vas a ver dónde nace, cómo viaja y por qué es tan distinto al de una neurona.
+En el corazón hay dos tipos de células. Las contráctiles, que hacen la fuerza, son la gran mayoría.
+Las otras forman el sistema de conducción: generan el impulso y lo distribuyen de forma ordenada.
+Empecemos por la célula contráctil del ventrículo. Su potencial de reposo es de unos menos noventa milivoltios.
+Su potencial de acción tiene cinco fases, numeradas del cero al cuatro, y dura unas doscientas veces más que el de un nervio.
+Fase cero: se abren los canales rápidos de sodio, y la célula se despolariza de golpe.
+Fase uno: esos canales se inactivan y sale un poco de potasio. Aparece una pequeña caída inicial.
+Fase dos, la meseta. Es lo que hace único al músculo cardíaco.
+Se abren canales lentos de calcio, de tipo L. El calcio que entra compensa al potasio que sale, y el voltaje se sostiene.
+Ese calcio que entra provoca, además, la liberación de más calcio desde el retículo sarcoplásmico. Así empieza la contracción.
+Fase tres: se cierran los canales de calcio y se abren más canales de potasio. La célula se repolariza.
+Fase cuatro: vuelve el potencial de reposo, hasta el próximo impulso.
+¿Para qué sirve la meseta? Para que el período refractario dure casi tanto como la contracción.
+Por eso el corazón no puede entrar en contracción sostenida. Siempre se relaja y se vuelve a llenar antes de volver a latir.
+Ahora, las células que marcan el ritmo. El nódulo sinusal está en la aurícula derecha, cerca de la vena cava superior.
+Sus células no tienen un reposo estable. Después de cada latido, su voltaje sube solo, de a poco.
+Esa subida lenta es el potencial de marcapasos. Se debe a canales que dejan entrar sodio de manera espontánea.
+Cuando llega al umbral, cerca de menos cuarenta milivoltios, se dispara el potencial de acción.
+Y aquí el ascenso no lo hace el sodio. Lo hacen los canales de calcio, y por eso es más lento.
+El nódulo sinusal dispara entre sesenta y cien veces por minuto. Es el marcapasos normal del corazón.
+Desde ahí, el impulso se extiende por las dos aurículas, y las aurículas se contraen.
+Luego llega al nódulo auriculoventricular, la única vía eléctrica normal entre aurículas y ventrículos.
+Ahí el impulso se retrasa alrededor de una décima de segundo.
+Ese retraso le da tiempo a la aurícula para terminar de vaciarse en el ventrículo antes de que el ventrículo se contraiga.
+Después, el impulso baja por el haz de His, que se divide en una rama derecha y una rama izquierda.
+Y termina en las fibras de Purkinje, que conducen muy rápido y reparten el impulso por todo el ventrículo.
+Así, los dos ventrículos se contraen casi al mismo tiempo, desde la punta hacia la base, y empujan la sangre hacia las arterias.
+Si el nódulo sinusal falla, otras zonas pueden tomar el mando, pero a un ritmo más lento.
+El nódulo auriculoventricular dispara entre cuarenta y sesenta veces por minuto, y las fibras de Purkinje, entre quince y cuarenta.
+El sistema nervioso no inicia el latido, pero sí lo regula. El simpático aumenta la frecuencia y la fuerza de contracción.
+El parasimpático, a través del nervio vago, la disminuye: hace más lenta la subida del potencial de marcapasos.
+Llevemos esto a la clínica. En un bloqueo auriculoventricular, el impulso no pasa bien de las aurículas a los ventrículos.
+En el bloqueo completo, los ventrículos laten por su cuenta, tan lento que puede hacer falta un marcapasos artificial.
+Resumen. Uno: el impulso nace en el nódulo sinusal. Dos: se retrasa en el nódulo auriculoventricular. Tres: la meseta de calcio evita la contracción sostenida.
+En el próximo video: gasto cardíaco y ley de Frank-Starling. Este contenido es educativo y no reemplaza la consulta médica.

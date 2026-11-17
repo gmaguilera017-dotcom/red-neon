@@ -1,0 +1,37 @@
+n,duracion,narracion,prompt,animar
+1,7,"Te levantas de golpe de la cama. La gravedad tira medio litro de sangre hacia tus piernas, y aun así no te desmayas.","A person standing up quickly from a bed with blood shown pooling toward the legs.",si
+2,7,"En menos de dos segundos, tu cuerpo corrigió la presión. Hoy vas a ver cómo lo hace: a corto, mediano y largo plazo.","A timeline with three sections of increasing length: seconds, minutes to hours, and days.",no
+3,7,"La presión arterial es la fuerza que ejerce la sangre sobre la pared de las arterias.","Cross-section of an artery with arrows pushing outward on its walls.",no
+4,7,"Tiene un valor máximo, la sistólica, y uno mínimo, la diastólica. En un adulto joven, alrededor de ciento veinte y ochenta.","A pulsating pressure wave with its top and bottom marked, highlighted in teal.",no
+5,7,"La presión arterial media depende de dos cosas: el gasto cardíaco y la resistencia periférica total.","A heart pumping into a tube with an adjustable narrowing at the end.",no
+6,7,"Si el corazón bombea más, o si las arteriolas se contraen, la presión sube.","Two diagrams: a heart pumping harder, and a narrowed small vessel, each with a rising gauge.",no
+7,7,"Todo sistema de control necesita un sensor, un centro que decide y un efector. Empecemos por el más rápido.","A three-box loop diagram: sensor, control center and effector connected by arrows.",no
+8,7,"Los sensores son los barorreceptores: terminaciones nerviosas que detectan el estiramiento de la pared arterial.","Nerve endings embedded in an artery wall, stretching as the artery expands.",no
+9,7,"Están en el seno carotídeo, en el cuello, y en el cayado de la aorta.","A neck and upper chest diagram with two sensor locations highlighted in teal.",no
+10,7,"Cuando la presión sube, la pared se estira más, y los barorreceptores disparan con más frecuencia.","A stretched artery wall with a nerve emitting many closely spaced pulses.",si
+11,7,"Esa información viaja por los nervios glosofaríngeo y vago hasta el bulbo raquídeo.","Nerves running from the neck and aortic arch up to the brainstem.",no
+12,7,"El bulbo responde frenando al sistema simpático y activando al parasimpático.","A brainstem with a brake pedal on one output line and an accelerator released on the other.",no
+13,7,"Los vasos se dilatan, el corazón late más lento y con menos fuerza, y la presión baja.","A widening vessel and a slower pulse trace with a falling gauge.",no
+14,7,"Si la presión cae, ocurre lo contrario: menos descargas, más simpático, vasoconstricción y taquicardia.","A narrowing vessel and a faster pulse trace with a rising gauge.",no
+15,7,"Eso es lo que te salva al ponerte de pie. El reflejo barorreceptor actúa en segundos.","A person standing upright and steady with a small stopwatch showing a very short time.",no
+16,7,"Pero tiene un límite. Si la presión se mantiene alta durante uno o dos días, los barorreceptores se adaptan al nuevo valor.","A sensor dial being reset to a higher baseline, with a calendar showing two days.",no
+17,7,"Sirven para amortiguar cambios bruscos, no para fijar la presión a largo plazo.","A shock absorber smoothing out a jagged pressure line.",no
+18,7,"Segundo nivel, de minutos a horas: el sistema renina-angiotensina-aldosterona.","A kidney with an arrow leading to a chain of three linked steps.",no
+19,7,"Cuando cae la presión, el riñón recibe menos flujo, y las células yuxtaglomerulares liberan renina.","Close-up of a kidney small vessel with specialized cells in its wall releasing particles, highlighted in teal.",no
+20,7,"La renina es una enzima. Actúa sobre una proteína del plasma, el angiotensinógeno, y forma angiotensina uno.","An enzyme cutting a long molecule into a shorter one in a blood vessel.",no
+21,7,"Al pasar por los pulmones, la enzima convertidora la transforma en angiotensina dos.","Blood passing through lung vessels where a short molecule is trimmed into an even shorter active one.",si
+22,7,"La angiotensina dos es un vasoconstrictor muy potente: en segundos, sube la resistencia periférica.","A small artery narrowing strongly with a rising pressure gauge.",no
+23,7,"Además, estimula la corteza suprarrenal para que libere aldosterona.","An adrenal gland on top of a kidney releasing a hormone, the outer layer of the gland highlighted in teal.",no
+24,7,"La aldosterona hace que el riñón retenga sodio, y con el sodio, agua. Sube el volumen de sangre.","A kidney tubule reabsorbing sodium ions and water droplets back into the blood.",no
+25,7,"También participa la hormona antidiurética, que retiene agua y, en dosis altas, contrae los vasos.","A gland at the base of the brain releasing a hormone that travels to the kidney.",no
+26,7,"Tercer nivel, el de largo plazo. Y aquí manda el riñón.","A kidney drawn large in the center with a crown-like highlight in teal.",no
+27,7,"Cuando la presión sube, el riñón elimina más sodio y más agua. Es la natriuresis y diuresis por presión.","A kidney producing more urine as a pressure gauge rises.",si
+28,7,"Al perder líquido, baja el volumen de sangre, baja el gasto cardíaco y la presión vuelve a su valor.","A blood volume container going down along with a pressure gauge returning to its normal mark.",no
+29,7,"Este mecanismo es lento, pero no se agota: sigue actuando hasta corregir la presión por completo.","A slow but steady line returning exactly to a target mark over a calendar of several days.",no
+30,7,"Por eso, para que haya hipertensión sostenida, la relación entre presión y excreción renal tiene que estar alterada.","A graph with a curve shifted to the right, the shifted curve highlighted in teal.",no
+31,7,"Llevemos esto a la clínica. En la hipotensión ortostática, el reflejo barorreceptor falla, y la persona se marea al pararse.","A dizzy person holding onto a chair after standing up.",no
+32,7,"Muchos antihipertensivos actúan sobre el sistema renina-angiotensina: los inhibidores de la enzima convertidora y los bloqueantes del receptor de angiotensina.","The chain of molecular steps with one step blocked by a plug and a receptor blocked by another.",no
+33,7,"Y los diuréticos aprovechan el mecanismo renal: aumentan la eliminación de sodio y agua.","A kidney releasing more sodium ions and water droplets, with a falling pressure gauge.",no
+34,7,"Resumen en tres niveles. Segundos: barorreceptores y sistema nervioso autónomo.","A neck sensor connected to the brainstem and heart, highlighted in teal, with a stopwatch.",no
+35,7,"Minutos a horas: renina, angiotensina y aldosterona. Días: el riñón y el control del volumen.","Two panels: a chain of hormone steps with a clock, and a kidney with a calendar.",no
+36,7,"En el próximo video: la filtración glomerular. Este contenido es educativo y no reemplaza la consulta médica.","A glomerulus with its capillary tuft inside a capsule, highlighted in teal.",no
