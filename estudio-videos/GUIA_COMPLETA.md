@@ -13,6 +13,8 @@ Empezá por acá. Está pensada para seguirla sin ayuda, en orden.
 | Plan de temas siguientes | 12 videos | 10 videos |
 | Prompt para guionar más videos con cualquier IA | `plantillas/prompt_listo_neomed.md` | `plantillas/prompt_listo_cuerpo_curioso.md` |
 
+Qué equipo y qué suscripciones hacen falta (y cuáles no): [`EQUIPAMIENTO.md`](EQUIPAMIENTO.md).
+
 Lo que falta en todos los videos: **revisar el guion, generar las imágenes, grabar la voz y montar.**
 
 ---
