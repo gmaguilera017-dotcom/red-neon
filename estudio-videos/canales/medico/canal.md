@@ -50,9 +50,9 @@ manda Guyton y Hall más reciente y se aclara en el video si el dato cambió.
 | 03 | Contracción del músculo esquelético: actina y miosina (**guionado**) | Membrana, nervio y músculo |
 | 04 | Placa neuromuscular y acoplamiento excitación-contracción (**guionado**) | Membrana, nervio y músculo |
 | 05 | Ciclo cardíaco: presiones, volúmenes y ruidos (**guionado**) | El corazón |
-| 06 | Potencial de acción cardíaco y sistema de conducción | El corazón |
-| 07 | Gasto cardíaco y ley de Frank-Starling | La circulación |
-| 08 | Regulación de la presión arterial: barorreceptores y riñón | La circulación |
+| 06 | Potencial de acción cardíaco y sistema de conducción (**guionado**) | El corazón |
+| 07 | Gasto cardíaco y ley de Frank-Starling (**guionado**) | La circulación |
+| 08 | Regulación de la presión arterial: barorreceptores y riñón (**guionado**) | La circulación |
 | 09 | Filtración glomerular: cómo el riñón forma la orina | Líquidos corporales y riñones |
 | 10 | Sistema renina-angiotensina-aldosterona | Líquidos corporales y riñones |
 | 11 | Mecánica respiratoria: cómo entra el aire | Respiración |

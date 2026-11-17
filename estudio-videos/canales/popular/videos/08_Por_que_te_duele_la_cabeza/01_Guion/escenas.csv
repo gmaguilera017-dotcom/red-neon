@@ -1,0 +1,45 @@
+n,duracion,narracion,prompt,animar
+1,4,"Tu cerebro no puede sentir dolor.","A brain with a calm face and a crossed-out lightning bolt.",no
+2,4,"Se puede operar con el paciente despierto, y no le duele.","A patient awake and relaxed on an operating table, talking to a surgeon.",si
+3,4,"Entonces, ¿qué es lo que duele cuando te duele la cabeza?","A person holding their head with a big question mark above.",no
+4,4,"Lo que duele es todo lo que lo rodea.","A brain surrounded by several layers and structures highlighted in orange.",no
+5,4,"Las membranas que lo envuelven, los vasos sanguíneos, los músculos del cuello y de la cara.","A head cross-section showing covering membranes, blood vessels and neck muscles.",no
+6,4,"Todos tienen sensores de dolor, conectados a un mismo nervio.","Several sensors around a head all joining one thick nerve line.",no
+7,4,"Hay más de cien tipos de dolor de cabeza. Pero tres explican casi todos.","A large crowd of small head icons with three of them highlighted in orange.",no
+8,4,"Uno. El más común: la cefalea tensional.","A head with a tight band drawn around the forehead.",no
+9,4,"Se siente como una banda que aprieta, de los dos lados.","Two hands pressing a head from both sides.",si
+10,4,"Molesta, pero te deja seguir con tu día.","A person working at a desk with a slight frown.",no
+11,4,"Aparece con estrés, mala postura, pocas horas de sueño.","Three icons: a storm cloud, a hunched back at a screen and a short clock by a bed.",no
+12,4,"Dos. La migraña.","A head with one side glowing orange.",no
+13,4,"Late. Suele ser de un solo lado.","Half a head with pulsing rings on one temple.",no
+14,4,"Y viene con náuseas, y con molestia a la luz y al ruido.","A person covering their eyes in a dark room with a crossed-out lamp and speaker.",no
+15,4,"Moverte la empeora. Necesitas acostarte a oscuras.","A person lying in a dark room with a cloth over the eyes.",no
+16,4,"Una de cada tres personas con migraña tiene aura.","Three head silhouettes, one of them highlighted in orange.",no
+17,4,"Antes del dolor, ve luces o líneas en zigzag.","A field of view with shimmering zigzag lines at the edge.",si
+18,4,"No es un dolor de cabeza fuerte. Es una enfermedad neurológica.","A brain with a small medical cross beside it.",no
+19,4,"Y tiene tratamientos específicos que funcionan.","A doctor handing a treatment plan to a relieved person.",no
+20,4,"Tres. La cefalea en racimos.","An eye with a sharp orange spike behind it.",no
+21,4,"Poco frecuente, pero de los dolores más intensos que existen.","A pain scale with the needle at maximum.",no
+22,4,"Siempre alrededor de un ojo, a la misma hora, durante semanas.","A calendar with the same hour marked every day and an eye icon.",no
+23,4,"Ahora, lo que dispara un dolor de cabeza común.","A row of small trigger switches.",no
+24,4,"Dormir poco. O dormir de más.","Two beds: one with a very short clock, one with a very long clock.",no
+25,4,"Saltear comidas.","An empty plate with a crossed-out fork.",no
+26,4,"Tomar poca agua.","An almost empty glass next to a wilted plant.",no
+27,4,"Horas frente a la pantalla, con el cuello hacia adelante.","A person hunched toward a laptop with orange tension lines on the neck.",no
+28,4,"Y dejar el café de golpe.","A coffee cup with a crossed-out circle and a person holding their head.",no
+29,4,"Hay una trampa que casi nadie conoce.","A person stepping toward a hidden trap on the floor.",no
+30,4,"Tomar analgésicos muy seguido puede provocar más dolor de cabeza.","A pill blister with a boomerang arrow coming back to a head.",si
+31,4,"Si los usas más de dos o tres días por semana, consúltalo.","A weekly calendar with three days marked with pills and a doctor icon.",no
+32,4,"¿Qué ayuda de verdad?","A person rolling up their sleeves in front of a checklist.",no
+33,4,"Horarios regulares de sueño y de comida.","Two matching clocks next to a bed and a plate.",no
+34,4,"Agua. Pausas de pantalla. Mover el cuello.","Three icons: a glass of water, a screen with a pause symbol, a neck stretching.",no
+35,4,"Y anotar cuándo te duele, para encontrar tu disparador.","A small notebook with dates and marks.",no
+36,4,"Ahora lo más importante del video.","A raised hand asking for attention, highlighted in orange.",no
+37,4,"Hay dolores de cabeza que son una urgencia.","A warning triangle next to a head.",no
+38,4,"El peor dolor de tu vida, y que aparece de golpe.","A head with a sudden large lightning bolt.",si
+39,4,"Dolor con fiebre y rigidez en la nuca.","A person with a thermometer and a stiff neck.",no
+40,4,"Dolor después de un golpe en la cabeza.","A head with a bump and a small impact star.",no
+41,4,"O con debilidad, dificultad para hablar, o pérdida de visión.","Three icons: a weak arm, a broken speech bubble, a blurred eye.",no
+42,4,"En esos casos no esperes. Ve a una guardia.","A person walking quickly toward a hospital entrance.",no
+43,4,"Suscríbete: cada semana, una curiosidad de tu cuerpo.","A hand pointing at a big orange button with a bell beside it.",no
+44,4,"Este video es informativo y no reemplaza una consulta médica.","A small stethoscope icon next to a waving hand.",no

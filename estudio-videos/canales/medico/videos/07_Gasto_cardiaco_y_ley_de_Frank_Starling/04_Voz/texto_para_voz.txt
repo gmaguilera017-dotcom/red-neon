@@ -1,0 +1,36 @@
+En reposo, tu corazón bombea unos cinco litros de sangre por minuto. Durante el ejercicio intenso puede superar los veinte.
+¿Cómo hace una misma bomba para cuadruplicar su trabajo en segundos? Esa es la historia del gasto cardíaco.
+El gasto cardíaco es el volumen de sangre que expulsa cada ventrículo en un minuto.
+Se calcula multiplicando la frecuencia cardíaca por el volumen sistólico.
+Con setenta latidos por minuto y setenta mililitros por latido, el resultado es de casi cinco litros por minuto.
+Como el tamaño corporal cambia las cifras, también se usa el índice cardíaco: el gasto dividido por la superficie corporal.
+Para aumentar el gasto hay dos caminos: latir más rápido o expulsar más sangre en cada latido.
+El volumen sistólico depende de tres factores: la precarga, la contractilidad y la poscarga.
+La precarga es cuánto se estira el ventrículo antes de contraerse. Depende del volumen que le llega al final de la diástole.
+Y aquí aparece una de las leyes más importantes de la fisiología: la ley de Frank-Starling.
+Dice que, dentro de límites fisiológicos, cuanto más se llena el ventrículo, con más fuerza se contrae.
+En otras palabras: el corazón bombea toda la sangre que recibe, sin que se acumule en las venas.
+¿Por qué ocurre? Al estirarse, los filamentos de actina y miosina quedan mejor superpuestos para generar fuerza.
+Además, la fibra estirada se vuelve más sensible al calcio.
+Este mecanismo es intrínseco: funciona latido a latido, sin nervios ni hormonas.
+Y mantiene iguales los gastos del ventrículo derecho y del izquierdo. Si uno expulsa de más, el otro recibe más y lo compensa.
+Entonces, ¿quién decide el gasto cardíaco? En condiciones normales, el retorno venoso.
+Cada tejido regula su propio flujo según lo que necesita. La suma de todos esos flujos vuelve al corazón.
+El corazón, gracias a Frank-Starling, simplemente bombea lo que le llega.
+Segundo factor: la contractilidad. Es la fuerza de contracción para una misma longitud de la fibra.
+El sistema simpático la aumenta: entra más calcio a la célula, y la curva de Frank-Starling se desplaza hacia arriba.
+Tercer factor: la poscarga. Es la resistencia contra la que el ventrículo tiene que expulsar la sangre.
+Para el ventrículo izquierdo, es sobre todo la presión de la aorta. Cuanto más alta, menos sangre sale en cada latido.
+¿Y la frecuencia? Si sube, sube el gasto. Pero solo hasta cierto punto.
+Con frecuencias muy altas, la diástole se acorta tanto que el ventrículo no llega a llenarse, y el gasto cae.
+En el ejercicio se suman todos los mecanismos: más retorno venoso, más frecuencia y más contractilidad.
+¿Cómo se mide? El método clásico es el principio de Fick.
+Se divide el oxígeno que consume el cuerpo por minuto por la diferencia de oxígeno entre la sangre arterial y la venosa.
+Hoy, en la práctica, se estima con ecocardiografía.
+Llevemos esto a la clínica. En una hemorragia cae el retorno venoso, cae la precarga y cae el gasto cardíaco.
+El cuerpo responde aumentando la frecuencia. Por eso la taquicardia es un signo temprano de pérdida de sangre.
+En la insuficiencia cardíaca, la curva de Frank-Starling se aplana: el ventrículo se llena, pero no logra expulsar más.
+La sangre se acumula detrás del ventrículo que falla, y aparecen la congestión y los edemas.
+Resumen en tres puntos. Uno: gasto cardíaco es frecuencia por volumen sistólico.
+Dos: el volumen sistólico depende de precarga, contractilidad y poscarga. Tres: por Frank-Starling, el corazón bombea lo que recibe.
+En el próximo video: cómo se regula la presión arterial. Este contenido es educativo y no reemplaza la consulta médica.

@@ -1,0 +1,37 @@
+n,duracion,narracion,prompt,animar
+1,7,"Si sacas un corazón del cuerpo y le das oxígeno y nutrientes, sigue latiendo solo. Nadie le da la orden.","An isolated heart beating by itself with small pulse waves around it, highlighted in teal.",si
+2,7,"El corazón genera su propio impulso eléctrico. Hoy vas a ver dónde nace, cómo viaja y por qué es tan distinto al de una neurona.","A heart with a glowing point in the upper right chamber and lines spreading from it.",no
+3,7,"En el corazón hay dos tipos de células. Las contráctiles, que hacen la fuerza, son la gran mayoría.","A wall of rectangular branching heart muscle cells connected end to end.",no
+4,7,"Las otras forman el sistema de conducción: generan el impulso y lo distribuyen de forma ordenada.","A heart section with a thin branching pathway running through it, highlighted in teal.",no
+5,7,"Empecemos por la célula contráctil del ventrículo. Su potencial de reposo es de unos menos noventa milivoltios.","A single heart muscle cell with a flat low baseline on a graph beside it.",no
+6,7,"Su potencial de acción tiene cinco fases, numeradas del cero al cuatro, y dura unas doscientas veces más que el de un nervio.","A graph comparing a very narrow spike and a wide plateau-shaped curve, the wide one highlighted in teal.",no
+7,7,"Fase cero: se abren los canales rápidos de sodio, y la célula se despolariza de golpe.","A plateau-shaped curve with its steep initial upstroke highlighted in teal, sodium ions entering a cell.",si
+8,7,"Fase uno: esos canales se inactivan y sale un poco de potasio. Aparece una pequeña caída inicial.","The same curve with the small notch after the peak highlighted in teal.",no
+9,7,"Fase dos, la meseta. Es lo que hace único al músculo cardíaco.","The same curve with the long flat plateau highlighted in teal.",no
+10,7,"Se abren canales lentos de calcio, de tipo L. El calcio que entra compensa al potasio que sale, y el voltaje se sostiene.","A cell membrane with calcium ions entering through one channel and potassium ions leaving through another, balanced arrows.",no
+11,7,"Ese calcio que entra provoca, además, la liberación de más calcio desde el retículo sarcoplásmico. Así empieza la contracción.","Calcium ions entering a cell and triggering a larger release of calcium from an internal sac.",si
+12,7,"Fase tres: se cierran los canales de calcio y se abren más canales de potasio. La célula se repolariza.","The same curve with its descending limb highlighted in teal, potassium ions leaving a cell.",no
+13,7,"Fase cuatro: vuelve el potencial de reposo, hasta el próximo impulso.","The same curve with the final flat baseline highlighted in teal.",no
+14,7,"¿Para qué sirve la meseta? Para que el período refractario dure casi tanto como la contracción.","A plateau-shaped curve aligned over a contraction curve, with a shaded band covering most of both.",no
+15,7,"Por eso el corazón no puede entrar en contracción sostenida. Siempre se relaja y se vuelve a llenar antes de volver a latir.","A heart alternating between contracted and relaxed states with a circular arrow.",no
+16,7,"Ahora, las células que marcan el ritmo. El nódulo sinusal está en la aurícula derecha, cerca de la vena cava superior.","Heart section with a small node in the upper wall of the right atrium highlighted in teal.",no
+17,7,"Sus células no tienen un reposo estable. Después de cada latido, su voltaje sube solo, de a poco.","A graph with a slowly rising slope between beats, the slope highlighted in teal.",no
+18,7,"Esa subida lenta es el potencial de marcapasos. Se debe a canales que dejan entrar sodio de manera espontánea.","A cell membrane with a channel letting sodium ions leak slowly inward, next to a rising slope on a graph.",no
+19,7,"Cuando llega al umbral, cerca de menos cuarenta milivoltios, se dispara el potencial de acción.","A graph where a rising slope reaches a dashed threshold line and a spike begins.",no
+20,7,"Y aquí el ascenso no lo hace el sodio. Lo hacen los canales de calcio, y por eso es más lento.","A rounded, slower upstroke on a graph with calcium ions entering a cell.",no
+21,7,"El nódulo sinusal dispara entre sesenta y cien veces por minuto. Es el marcapasos normal del corazón.","A small node emitting regular pulses with a metronome beside it.",si
+22,7,"Desde ahí, el impulso se extiende por las dos aurículas, y las aurículas se contraen.","Heart section with a wave spreading from the node across both upper chambers.",no
+23,7,"Luego llega al nódulo auriculoventricular, la única vía eléctrica normal entre aurículas y ventrículos.","Heart section with a second node at the junction between upper and lower chambers highlighted in teal.",no
+24,7,"Ahí el impulso se retrasa alrededor de una décima de segundo.","A node with a small stopwatch, the pulse waiting before passing through.",no
+25,7,"Ese retraso le da tiempo a la aurícula para terminar de vaciarse en el ventrículo antes de que el ventrículo se contraiga.","Upper chamber finishing emptying into the lower chamber while the lower chamber is still relaxed.",no
+26,7,"Después, el impulso baja por el haz de His, que se divide en una rama derecha y una rama izquierda.","Heart section with a bundle descending through the wall between the ventricles and splitting into two branches.",no
+27,7,"Y termina en las fibras de Purkinje, que conducen muy rápido y reparten el impulso por todo el ventrículo.","A fine network of fibers spreading along the inner walls of both ventricles, highlighted in teal.",si
+28,7,"Así, los dos ventrículos se contraen casi al mismo tiempo, desde la punta hacia la base, y empujan la sangre hacia las arterias.","Ventricles contracting from the tip upward with arrows pushing blood toward the outflow vessels.",no
+29,7,"Si el nódulo sinusal falla, otras zonas pueden tomar el mando, pero a un ritmo más lento.","Three pacemaker sites in a heart drawn with metronomes of decreasing speed.",no
+30,7,"El nódulo auriculoventricular dispara entre cuarenta y sesenta veces por minuto, y las fibras de Purkinje, entre quince y cuarenta.","A heart with the second node and the ventricular fibers each showing a slower pulse rate.",no
+31,7,"El sistema nervioso no inicia el latido, pero sí lo regula. El simpático aumenta la frecuencia y la fuerza de contracción.","A nerve reaching the heart with an accelerator pedal icon and a faster pulse trace.",no
+32,7,"El parasimpático, a través del nervio vago, la disminuye: hace más lenta la subida del potencial de marcapasos.","A nerve reaching the node with a brake pedal icon and a flatter rising slope on a graph.",no
+33,7,"Llevemos esto a la clínica. En un bloqueo auriculoventricular, el impulso no pasa bien de las aurículas a los ventrículos.","Heart section with the pathway interrupted at the second node, marked with a blocked symbol.",no
+34,7,"En el bloqueo completo, los ventrículos laten por su cuenta, tan lento que puede hacer falta un marcapasos artificial.","A small artificial pacemaker device with a lead going into the heart.",no
+35,7,"Resumen. Uno: el impulso nace en el nódulo sinusal. Dos: se retrasa en el nódulo auriculoventricular. Tres: la meseta de calcio evita la contracción sostenida.","Three small panels: a node emitting a pulse, a node with a stopwatch, and a plateau-shaped curve.",no
+36,7,"En el próximo video: gasto cardíaco y ley de Frank-Starling. Este contenido es educativo y no reemplaza la consulta médica.","A heart with a thick arrow of blood leaving it, highlighted in teal.",no

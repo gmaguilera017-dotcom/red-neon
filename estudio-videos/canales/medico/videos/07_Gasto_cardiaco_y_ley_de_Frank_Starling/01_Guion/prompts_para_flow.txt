@@ -1,0 +1,107 @@
+[escena_001] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Five one-liter containers in a row next to a resting heart, and a much longer row next to an exercising heart.
+
+[escena_002]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A heart with a dial going from low to high, highlighted in teal.
+
+[escena_003]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A ventricle ejecting blood into a measuring container with a small clock showing one minute.
+
+[escena_004]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A simple diagram of a pulse icon multiplied by a drop icon giving a larger container.
+
+[escena_005]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A heart beating with a counter and a container filling up to a mark near the top.
+
+[escena_006]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two body silhouettes of different sizes with proportionally sized hearts and containers.
+
+[escena_007]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A fork in a road with a pulse icon on one path and a larger drop icon on the other.
+
+[escena_008]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Three labeled-free icons around a ventricle: a filling arrow, a muscle symbol and a resistance wall.
+
+[escena_009]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A ventricle stretched by incoming blood, with arrows on its walls showing the stretch.
+
+[escena_010]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A ventricle next to a rising curve on a graph, highlighted in teal.
+
+[escena_011] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two ventricles side by side: a less filled one with a small ejection arrow and a fuller one with a large ejection arrow.
+
+[escena_012]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Blood arriving at the heart through veins and the same amount leaving through arteries, balanced arrows.
+
+[escena_013]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two sarcomere diagrams: a short one with poor overlap and a moderately stretched one with optimal overlap.
+
+[escena_014]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A stretched muscle filament with calcium ions binding more readily to it.
+
+[escena_015]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An isolated heart with crossed-out nerve and hormone symbols, still adapting its output.
+
+[escena_016] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Right and left ventricles connected through the lungs in a loop with equal flow arrows.
+
+[escena_017]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Large veins bringing blood back to the heart, the incoming flow highlighted in teal.
+
+[escena_018]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Several organs each with a small adjustable valve on its blood supply, all flows merging toward the heart.
+
+[escena_019]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A heart drawn as a pump passing along exactly the amount of fluid entering it.
+
+[escena_020]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two identical ventricles with the same filling, one contracting weakly and the other strongly.
+
+[escena_021]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A graph with two rising curves, the upper one highlighted in teal, and a nerve reaching the heart.
+
+[escena_022]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A ventricle pushing blood against a partially closed gate in the aorta.
+
+[escena_023]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A ventricle with a high pressure gauge on the aorta and a smaller ejection arrow.
+
+[escena_024]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A graph with a curve rising and then falling as heart rate increases.
+
+[escena_025]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A fast beating heart with very little blood entering between beats.
+
+[escena_026] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A person running with veins returning more blood, a faster pulse and a stronger heart.
+
+[escena_027]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A simple diagram of lungs, a heart and two blood samples.
+
+[escena_028]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two blood samples, one brighter and one darker, with oxygen molecules entering through the lungs.
+
+[escena_029]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An ultrasound probe on a chest with a heart image on a screen.
+
+[escena_030]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A blood vessel losing blood, a less filled ventricle and a low output gauge.
+
+[escena_031]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A fast pulse trace next to a low volume container.
+
+[escena_032]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A graph with a flattened curve below a normal curve, and an enlarged ventricle.
+
+[escena_033]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Blood backing up into the lungs and legs behind a weak heart, swollen ankles.
+
+[escena_034]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A pulse icon multiplied by a drop icon, highlighted in teal.
+
+[escena_035]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A ventricle with three small icons around it and balanced inflow and outflow arrows.
+
+[escena_036]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A blood pressure cuff on an arm with a gauge, highlighted in teal.

@@ -1,0 +1,36 @@
+Te levantas de golpe de la cama. La gravedad tira medio litro de sangre hacia tus piernas, y aun así no te desmayas.
+En menos de dos segundos, tu cuerpo corrigió la presión. Hoy vas a ver cómo lo hace: a corto, mediano y largo plazo.
+La presión arterial es la fuerza que ejerce la sangre sobre la pared de las arterias.
+Tiene un valor máximo, la sistólica, y uno mínimo, la diastólica. En un adulto joven, alrededor de ciento veinte y ochenta.
+La presión arterial media depende de dos cosas: el gasto cardíaco y la resistencia periférica total.
+Si el corazón bombea más, o si las arteriolas se contraen, la presión sube.
+Todo sistema de control necesita un sensor, un centro que decide y un efector. Empecemos por el más rápido.
+Los sensores son los barorreceptores: terminaciones nerviosas que detectan el estiramiento de la pared arterial.
+Están en el seno carotídeo, en el cuello, y en el cayado de la aorta.
+Cuando la presión sube, la pared se estira más, y los barorreceptores disparan con más frecuencia.
+Esa información viaja por los nervios glosofaríngeo y vago hasta el bulbo raquídeo.
+El bulbo responde frenando al sistema simpático y activando al parasimpático.
+Los vasos se dilatan, el corazón late más lento y con menos fuerza, y la presión baja.
+Si la presión cae, ocurre lo contrario: menos descargas, más simpático, vasoconstricción y taquicardia.
+Eso es lo que te salva al ponerte de pie. El reflejo barorreceptor actúa en segundos.
+Pero tiene un límite. Si la presión se mantiene alta durante uno o dos días, los barorreceptores se adaptan al nuevo valor.
+Sirven para amortiguar cambios bruscos, no para fijar la presión a largo plazo.
+Segundo nivel, de minutos a horas: el sistema renina-angiotensina-aldosterona.
+Cuando cae la presión, el riñón recibe menos flujo, y las células yuxtaglomerulares liberan renina.
+La renina es una enzima. Actúa sobre una proteína del plasma, el angiotensinógeno, y forma angiotensina uno.
+Al pasar por los pulmones, la enzima convertidora la transforma en angiotensina dos.
+La angiotensina dos es un vasoconstrictor muy potente: en segundos, sube la resistencia periférica.
+Además, estimula la corteza suprarrenal para que libere aldosterona.
+La aldosterona hace que el riñón retenga sodio, y con el sodio, agua. Sube el volumen de sangre.
+También participa la hormona antidiurética, que retiene agua y, en dosis altas, contrae los vasos.
+Tercer nivel, el de largo plazo. Y aquí manda el riñón.
+Cuando la presión sube, el riñón elimina más sodio y más agua. Es la natriuresis y diuresis por presión.
+Al perder líquido, baja el volumen de sangre, baja el gasto cardíaco y la presión vuelve a su valor.
+Este mecanismo es lento, pero no se agota: sigue actuando hasta corregir la presión por completo.
+Por eso, para que haya hipertensión sostenida, la relación entre presión y excreción renal tiene que estar alterada.
+Llevemos esto a la clínica. En la hipotensión ortostática, el reflejo barorreceptor falla, y la persona se marea al pararse.
+Muchos antihipertensivos actúan sobre el sistema renina-angiotensina: los inhibidores de la enzima convertidora y los bloqueantes del receptor de angiotensina.
+Y los diuréticos aprovechan el mecanismo renal: aumentan la eliminación de sodio y agua.
+Resumen en tres niveles. Segundos: barorreceptores y sistema nervioso autónomo.
+Minutos a horas: renina, angiotensina y aldosterona. Días: el riñón y el control del volumen.
+En el próximo video: la filtración glomerular. Este contenido es educativo y no reemplaza la consulta médica.

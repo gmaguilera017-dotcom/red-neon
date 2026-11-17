@@ -1,0 +1,37 @@
+n,duracion,narracion,prompt,animar
+1,7,"En reposo, tu corazón bombea unos cinco litros de sangre por minuto. Durante el ejercicio intenso puede superar los veinte.","Five one-liter containers in a row next to a resting heart, and a much longer row next to an exercising heart.",si
+2,7,"¿Cómo hace una misma bomba para cuadruplicar su trabajo en segundos? Esa es la historia del gasto cardíaco.","A heart with a dial going from low to high, highlighted in teal.",no
+3,7,"El gasto cardíaco es el volumen de sangre que expulsa cada ventrículo en un minuto.","A ventricle ejecting blood into a measuring container with a small clock showing one minute.",no
+4,7,"Se calcula multiplicando la frecuencia cardíaca por el volumen sistólico.","A simple diagram of a pulse icon multiplied by a drop icon giving a larger container.",no
+5,7,"Con setenta latidos por minuto y setenta mililitros por latido, el resultado es de casi cinco litros por minuto.","A heart beating with a counter and a container filling up to a mark near the top.",no
+6,7,"Como el tamaño corporal cambia las cifras, también se usa el índice cardíaco: el gasto dividido por la superficie corporal.","Two body silhouettes of different sizes with proportionally sized hearts and containers.",no
+7,7,"Para aumentar el gasto hay dos caminos: latir más rápido o expulsar más sangre en cada latido.","A fork in a road with a pulse icon on one path and a larger drop icon on the other.",no
+8,7,"El volumen sistólico depende de tres factores: la precarga, la contractilidad y la poscarga.","Three labeled-free icons around a ventricle: a filling arrow, a muscle symbol and a resistance wall.",no
+9,7,"La precarga es cuánto se estira el ventrículo antes de contraerse. Depende del volumen que le llega al final de la diástole.","A ventricle stretched by incoming blood, with arrows on its walls showing the stretch.",no
+10,7,"Y aquí aparece una de las leyes más importantes de la fisiología: la ley de Frank-Starling.","A ventricle next to a rising curve on a graph, highlighted in teal.",no
+11,7,"Dice que, dentro de límites fisiológicos, cuanto más se llena el ventrículo, con más fuerza se contrae.","Two ventricles side by side: a less filled one with a small ejection arrow and a fuller one with a large ejection arrow.",si
+12,7,"En otras palabras: el corazón bombea toda la sangre que recibe, sin que se acumule en las venas.","Blood arriving at the heart through veins and the same amount leaving through arteries, balanced arrows.",no
+13,7,"¿Por qué ocurre? Al estirarse, los filamentos de actina y miosina quedan mejor superpuestos para generar fuerza.","Two sarcomere diagrams: a short one with poor overlap and a moderately stretched one with optimal overlap.",no
+14,7,"Además, la fibra estirada se vuelve más sensible al calcio.","A stretched muscle filament with calcium ions binding more readily to it.",no
+15,7,"Este mecanismo es intrínseco: funciona latido a latido, sin nervios ni hormonas.","An isolated heart with crossed-out nerve and hormone symbols, still adapting its output.",no
+16,7,"Y mantiene iguales los gastos del ventrículo derecho y del izquierdo. Si uno expulsa de más, el otro recibe más y lo compensa.","Right and left ventricles connected through the lungs in a loop with equal flow arrows.",si
+17,7,"Entonces, ¿quién decide el gasto cardíaco? En condiciones normales, el retorno venoso.","Large veins bringing blood back to the heart, the incoming flow highlighted in teal.",no
+18,7,"Cada tejido regula su propio flujo según lo que necesita. La suma de todos esos flujos vuelve al corazón.","Several organs each with a small adjustable valve on its blood supply, all flows merging toward the heart.",no
+19,7,"El corazón, gracias a Frank-Starling, simplemente bombea lo que le llega.","A heart drawn as a pump passing along exactly the amount of fluid entering it.",no
+20,7,"Segundo factor: la contractilidad. Es la fuerza de contracción para una misma longitud de la fibra.","Two identical ventricles with the same filling, one contracting weakly and the other strongly.",no
+21,7,"El sistema simpático la aumenta: entra más calcio a la célula, y la curva de Frank-Starling se desplaza hacia arriba.","A graph with two rising curves, the upper one highlighted in teal, and a nerve reaching the heart.",no
+22,7,"Tercer factor: la poscarga. Es la resistencia contra la que el ventrículo tiene que expulsar la sangre.","A ventricle pushing blood against a partially closed gate in the aorta.",no
+23,7,"Para el ventrículo izquierdo, es sobre todo la presión de la aorta. Cuanto más alta, menos sangre sale en cada latido.","A ventricle with a high pressure gauge on the aorta and a smaller ejection arrow.",no
+24,7,"¿Y la frecuencia? Si sube, sube el gasto. Pero solo hasta cierto punto.","A graph with a curve rising and then falling as heart rate increases.",no
+25,7,"Con frecuencias muy altas, la diástole se acorta tanto que el ventrículo no llega a llenarse, y el gasto cae.","A fast beating heart with very little blood entering between beats.",no
+26,7,"En el ejercicio se suman todos los mecanismos: más retorno venoso, más frecuencia y más contractilidad.","A person running with veins returning more blood, a faster pulse and a stronger heart.",si
+27,7,"¿Cómo se mide? El método clásico es el principio de Fick.","A simple diagram of lungs, a heart and two blood samples.",no
+28,7,"Se divide el oxígeno que consume el cuerpo por minuto por la diferencia de oxígeno entre la sangre arterial y la venosa.","Two blood samples, one brighter and one darker, with oxygen molecules entering through the lungs.",no
+29,7,"Hoy, en la práctica, se estima con ecocardiografía.","An ultrasound probe on a chest with a heart image on a screen.",no
+30,7,"Llevemos esto a la clínica. En una hemorragia cae el retorno venoso, cae la precarga y cae el gasto cardíaco.","A blood vessel losing blood, a less filled ventricle and a low output gauge.",no
+31,7,"El cuerpo responde aumentando la frecuencia. Por eso la taquicardia es un signo temprano de pérdida de sangre.","A fast pulse trace next to a low volume container.",no
+32,7,"En la insuficiencia cardíaca, la curva de Frank-Starling se aplana: el ventrículo se llena, pero no logra expulsar más.","A graph with a flattened curve below a normal curve, and an enlarged ventricle.",no
+33,7,"La sangre se acumula detrás del ventrículo que falla, y aparecen la congestión y los edemas.","Blood backing up into the lungs and legs behind a weak heart, swollen ankles.",no
+34,7,"Resumen en tres puntos. Uno: gasto cardíaco es frecuencia por volumen sistólico.","A pulse icon multiplied by a drop icon, highlighted in teal.",no
+35,7,"Dos: el volumen sistólico depende de precarga, contractilidad y poscarga. Tres: por Frank-Starling, el corazón bombea lo que recibe.","A ventricle with three small icons around it and balanced inflow and outflow arrows.",no
+36,7,"En el próximo video: cómo se regula la presión arterial. Este contenido es educativo y no reemplaza la consulta médica.","A blood pressure cuff on an arm with a gauge, highlighted in teal.",no

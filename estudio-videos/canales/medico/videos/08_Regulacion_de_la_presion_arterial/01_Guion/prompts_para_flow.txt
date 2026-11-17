@@ -1,0 +1,107 @@
+[escena_001] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A person standing up quickly from a bed with blood shown pooling toward the legs.
+
+[escena_002]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A timeline with three sections of increasing length: seconds, minutes to hours, and days.
+
+[escena_003]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Cross-section of an artery with arrows pushing outward on its walls.
+
+[escena_004]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A pulsating pressure wave with its top and bottom marked, highlighted in teal.
+
+[escena_005]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A heart pumping into a tube with an adjustable narrowing at the end.
+
+[escena_006]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two diagrams: a heart pumping harder, and a narrowed small vessel, each with a rising gauge.
+
+[escena_007]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A three-box loop diagram: sensor, control center and effector connected by arrows.
+
+[escena_008]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Nerve endings embedded in an artery wall, stretching as the artery expands.
+
+[escena_009]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A neck and upper chest diagram with two sensor locations highlighted in teal.
+
+[escena_010] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A stretched artery wall with a nerve emitting many closely spaced pulses.
+
+[escena_011]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Nerves running from the neck and aortic arch up to the brainstem.
+
+[escena_012]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A brainstem with a brake pedal on one output line and an accelerator released on the other.
+
+[escena_013]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A widening vessel and a slower pulse trace with a falling gauge.
+
+[escena_014]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A narrowing vessel and a faster pulse trace with a rising gauge.
+
+[escena_015]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A person standing upright and steady with a small stopwatch showing a very short time.
+
+[escena_016]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A sensor dial being reset to a higher baseline, with a calendar showing two days.
+
+[escena_017]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A shock absorber smoothing out a jagged pressure line.
+
+[escena_018]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A kidney with an arrow leading to a chain of three linked steps.
+
+[escena_019]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Close-up of a kidney small vessel with specialized cells in its wall releasing particles, highlighted in teal.
+
+[escena_020]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An enzyme cutting a long molecule into a shorter one in a blood vessel.
+
+[escena_021] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Blood passing through lung vessels where a short molecule is trimmed into an even shorter active one.
+
+[escena_022]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A small artery narrowing strongly with a rising pressure gauge.
+
+[escena_023]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: An adrenal gland on top of a kidney releasing a hormone, the outer layer of the gland highlighted in teal.
+
+[escena_024]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A kidney tubule reabsorbing sodium ions and water droplets back into the blood.
+
+[escena_025]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A gland at the base of the brain releasing a hormone that travels to the kidney.
+
+[escena_026]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A kidney drawn large in the center with a crown-like highlight in teal.
+
+[escena_027] (ANIMAR)
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A kidney producing more urine as a pressure gauge rises.
+
+[escena_028]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A blood volume container going down along with a pressure gauge returning to its normal mark.
+
+[escena_029]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A slow but steady line returning exactly to a target mark over a calendar of several days.
+
+[escena_030]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A graph with a curve shifted to the right, the shifted curve highlighted in teal.
+
+[escena_031]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A dizzy person holding onto a chair after standing up.
+
+[escena_032]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: The chain of molecular steps with one step blocked by a plug and a receptor blocked by another.
+
+[escena_033]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A kidney releasing more sodium ions and water droplets, with a falling pressure gauge.
+
+[escena_034]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A neck sensor connected to the brainstem and heart, highlighted in teal, with a stopwatch.
+
+[escena_035]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: Two panels: a chain of hormone steps with a clock, and a kidney with a calendar.
+
+[escena_036]
+Clean medical whiteboard illustration, dark navy outlines on a plain white background, flat minimal shading, a single accent color teal (#00A8A8) used only to highlight the key structure, anatomically and physiologically accurate, no text, labels, letters or numbers in the image, no characters or mascots, 16:9. Scene: A glomerulus with its capillary tuft inside a capsule, highlighted in teal.

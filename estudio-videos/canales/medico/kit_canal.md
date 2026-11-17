@@ -71,4 +71,4 @@ Hasta tener tráiler, usar el video 01 como "video destacado para visitantes nue
 ## Calendario de las primeras 12 semanas
 Un video largo por semana (mismo día y hora, por ejemplo martes 19:00) y dos Shorts sacados de
 ese video (jueves y sábado). Orden de temas: tabla "Plan de los primeros 12 videos" de `canal.md`.
-Los videos 01 a 05 ya están guionados.
+Los videos 01 a 08 ya están guionados.

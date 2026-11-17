@@ -1,0 +1,45 @@
+n,duracion,narracion,prompt,animar
+1,4,"Tu amigo toma un café a las diez de la noche, y duerme como un bebé.","A person drinking coffee at night and then sleeping soundly, a moon in the window.",no
+2,4,"Tú tomas uno a las cuatro de la tarde, y no pegas un ojo.","A person lying in bed wide awake with an afternoon coffee cup floating in a thought bubble.",si
+3,4,"No es sugestión. Es biología.","A coffee cup next to a twisted ladder shape in orange.",no
+4,4,"Y parte de la respuesta está en tus genes.","A person looking at a twisted ladder shape inside their own silhouette.",no
+5,4,"Primero, qué hace la cafeína.","A coffee bean with small sparks around it.",no
+6,4,"Durante el día, tu cerebro acumula adenosina, la señal del cansancio.","A brain slowly filling with small orange dots.",no
+7,4,"La adenosina se une a sus receptores, y te da sueño.","Orange dots fitting into small sockets on a brain cell, a yawn above.",no
+8,4,"La cafeína se parece tanto, que ocupa ese mismo lugar.","A coffee bean shaped piece fitting into the same socket, the orange dot left outside.",si
+9,4,"Pero no lo activa. Solo lo bloquea.","A socket covered by a plug, with an orange dot bouncing off.",no
+10,4,"El cansancio sigue ahí. Solo que no lo sientes.","A person smiling while a pile of orange dots grows behind them.",no
+11,4,"Hasta acá, a todos nos pasa lo mismo. La diferencia viene después.","Several different people each holding the same coffee cup.",no
+12,4,"Tu hígado tiene que eliminar la cafeína.","A liver character holding a small broom next to coffee beans.",no
+13,4,"Lo hace con una enzima, y esa enzima depende de un gen.","A liver with a small pair of scissors cutting a coffee bean, a twisted ladder shape beside it.",no
+14,4,"Según la versión que heredaste, eres metabolizador rápido o lento.","Two liver characters: one sprinting, one walking slowly.",no
+15,4,"A un rápido, la mitad de la cafeína se le va en dos o tres horas.","A cup emptying halfway quickly next to a clock showing a short time.",no
+16,4,"A un lento, le puede llevar ocho, o más.","A cup still half full next to a clock showing a long time.",no
+17,4,"El café de las cuatro sigue en tu sangre a medianoche.","A blood vessel with coffee beans floating in it at night, a moon outside.",si
+18,4,"Segunda diferencia: los receptores.","A brain cell with several small sockets, highlighted in orange.",no
+19,4,"Otro gen cambia qué tan sensibles son a la cafeína.","Two brain cells: one with sockets reacting strongly with sparks, one barely reacting.",no
+20,4,"Por eso, a algunos una taza les da ansiedad y palpitaciones.","A jittery person with a pounding heart and shaky hands holding a small cup.",no
+21,4,"Y otros toman tres, y ni se enteran.","A calm person with three empty cups stacked on the table.",no
+22,4,"Tercera: la costumbre.","A calendar with a coffee cup drawn on every day.",no
+23,4,"Si tomas café todos los días, tu cerebro fabrica más receptores.","A brain cell growing extra sockets.",no
+24,4,"Necesitas más cafeína para taparlos a todos.","Many sockets with only a few covered by plugs, more beans arriving.",no
+25,4,"Eso es la tolerancia.","A row of coffee cups growing in size from small to huge.",no
+26,4,"Y explica el dolor de cabeza cuando lo dejas de golpe.","A person holding their head next to an empty cup with a crossed-out circle.",no
+27,4,"Hay más cosas que cambian la velocidad.","A speed dial with several small icons around it.",no
+28,4,"Fumar acelera la eliminación de la cafeína.","A cigarette icon next to a liver character running faster.",no
+29,4,"El embarazo y algunos anticonceptivos la hacen mucho más lenta.","A pregnant silhouette and a pill blister next to a liver character walking slowly.",no
+30,4,"Y con los años, también se enlentece.","An older person holding a cup with a slow clock beside them.",no
+31,4,"Entonces, ¿cuánto es demasiado?","A person looking at a row of cups with a question mark.",no
+32,4,"Para un adulto sano, hasta cuatrocientos miligramos por día.","Four coffee cups in a row with an orange check mark.",no
+33,4,"Son tres o cuatro tazas de café común.","Three and a half cups drawn on a table.",no
+34,4,"En el embarazo, la mitad.","A pregnant silhouette next to two cups.",no
+35,4,"Pero tu número real te lo dice tu cuerpo.","A person listening to their own chest with a hand over the heart.",no
+36,4,"Si te da palpitaciones, temblor o acidez, es mucho para ti.","Three small icons: a pounding heart, a shaking hand and a flame on a stomach.",no
+37,4,"Y si duermes mal, prueba con la regla de las ocho horas.","A clock with an eight-hour arc highlighted in orange before a bed icon.",si
+38,4,"El último café, ocho horas antes de acostarte.","A coffee cup placed on a timeline far from a bed at the other end.",no
+39,4,"Si eres lento, mejor solo a la mañana.","A sunrise with a single coffee cup and a slow liver character.",no
+40,4,"¿Y tu amigo, el que duerme igual?","The sleeping person from the beginning, still asleep.",no
+41,4,"Se duerme, sí. Pero la cafeína puede quitarle sueño profundo.","A sleep graph with its deepest parts shaved off, coffee beans floating above the bed.",no
+42,4,"Que no lo note no significa que no le afecte.","A person waking up tired and confused despite a full night in bed.",no
+43,4,"Suscríbete: cada semana, una curiosidad de tu cuerpo.","A hand pointing at a big orange button with a bell beside it.",no
+44,4,"Este video es informativo y no reemplaza una consulta médica.","A small stethoscope icon next to a waving hand.",no

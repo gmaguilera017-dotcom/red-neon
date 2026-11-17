@@ -66,6 +66,6 @@ Hasta tener tráiler, usar el video 01 como "video destacado para visitantes nue
 ## Calendario de las primeras 10 semanas
 Un video largo por semana (mismo día y hora, por ejemplo viernes 20:00) y tres Shorts sacados de
 ese video (lunes, miércoles y domingo). Orden de temas: tabla "Plan de los primeros 10 videos" de
-`canal.md`. Los videos 01 a 05 ya están guionados.
+`canal.md`. Los videos 01 a 08 ya están guionados.
 
 En este canal los Shorts son la vía principal para crecer: publicar los seis reels de cada video.
